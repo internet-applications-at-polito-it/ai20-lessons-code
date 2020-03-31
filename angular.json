@@ -318,6 +318,123 @@
           }
         }
       }
+    },
+    "L0510-framework-first-component": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "projects/L0510-framework-first-component",
+      "sourceRoot": "projects/L0510-framework-first-component/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/L0510-framework-first-component",
+            "index": "projects/L0510-framework-first-component/src/index.html",
+            "main": "projects/L0510-framework-first-component/src/main.ts",
+            "polyfills": "projects/L0510-framework-first-component/src/polyfills.ts",
+            "tsConfig": "projects/L0510-framework-first-component/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/L0510-framework-first-component/src/favicon.ico",
+              "projects/L0510-framework-first-component/src/assets"
+            ],
+            "styles": [
+              "projects/L0510-framework-first-component/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/L0510-framework-first-component/src/environments/environment.ts",
+                  "with": "projects/L0510-framework-first-component/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "L0510-framework-first-component:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "L0510-framework-first-component:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "L0510-framework-first-component:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/L0510-framework-first-component/src/test.ts",
+            "polyfills": "projects/L0510-framework-first-component/src/polyfills.ts",
+            "tsConfig": "projects/L0510-framework-first-component/tsconfig.spec.json",
+            "karmaConfig": "projects/L0510-framework-first-component/karma.conf.js",
+            "assets": [
+              "projects/L0510-framework-first-component/src/favicon.ico",
+              "projects/L0510-framework-first-component/src/assets"
+            ],
+            "styles": [
+              "projects/L0510-framework-first-component/src/styles.css"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/L0510-framework-first-component/tsconfig.app.json",
+              "projects/L0510-framework-first-component/tsconfig.spec.json",
+              "projects/L0510-framework-first-component/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/L0510-framework-first-component/e2e/protractor.conf.js",
+            "devServerTarget": "L0510-framework-first-component:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "L0510-framework-first-component:serve:production"
+            }
+          }
+        }
+      }
     }
   },
   "defaultProject": "L000-hello-world"
