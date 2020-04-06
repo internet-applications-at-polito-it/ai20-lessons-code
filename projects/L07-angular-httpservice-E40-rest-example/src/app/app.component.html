@@ -16,20 +16,20 @@
 
     <!-- Progress Column -->
     <ng-container matColumnDef="progress">
-      <mat-header-cell *matHeaderCellDef mat-sort-header> Progress </mat-header-cell>
-      <mat-cell *matCellDef="let row"> {{row.progress}}% </mat-cell>
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Title </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.volumeInfo.title}} </mat-cell>
     </ng-container>
 
     <!-- Name Column -->
     <ng-container matColumnDef="name">
-      <mat-header-cell *matHeaderCellDef mat-sort-header> Name </mat-header-cell>
-      <mat-cell *matCellDef="let row"> {{row.name}} </mat-cell>
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Author </mat-header-cell>
+      <mat-cell *matCellDef="let row"> {{row.volumeInfo.authors[0]}} </mat-cell>
     </ng-container>
 
     <!-- Color Column -->
     <ng-container matColumnDef="color">
-      <mat-header-cell *matHeaderCellDef mat-sort-header> Color </mat-header-cell>
-      <mat-cell *matCellDef="let row" [style.color]="row.color"> {{row.color}} </mat-cell>
+      <mat-header-cell *matHeaderCellDef mat-sort-header> Year </mat-header-cell>
+      <mat-cell *matCellDef="let row" [style.color]="row"> {{row.volumeInfo.publishedDate.slice(0,4)}} </mat-cell>
     </ng-container>
 
     <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
