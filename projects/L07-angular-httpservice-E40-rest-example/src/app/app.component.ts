@@ -16,6 +16,7 @@ import { Observable } from 'rxjs';
   templateUrl: 'app.component.html',
 })
 export class AppComponent implements AfterViewInit {
+  title = 'L07-angular-httpservice-E40-rest-example';
   displayedColumns = ['id', 'name', 'progress', 'color'];
   // dataSource: MatTableDataSource<Book>;
   dataSource$: Observable<Book[]>;
