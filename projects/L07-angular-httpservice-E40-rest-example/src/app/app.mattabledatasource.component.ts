@@ -5,7 +5,6 @@ import {MatTableDataSource} from '@angular/material/table';
 
 import {GoogleBooksService} from './google-books.service';
 import { Book } from './models/book.model';
-import { Observable } from 'rxjs';
 
 /**
  * @title Data table with sorting, pagination, and filtering.
@@ -17,15 +16,14 @@ import { Observable } from 'rxjs';
 })
 export class AppComponent implements AfterViewInit {
   displayedColumns = ['id', 'name', 'progress', 'color'];
-  // dataSource: MatTableDataSource<Book>;
-  dataSource: Observable<Book[]>;
+  dataSource: MatTableDataSource<Book>;
 
   @ViewChild(MatPaginator) paginator: MatPaginator;
   @ViewChild(MatSort) sort: MatSort;
 
   constructor(private googleBooksService: GoogleBooksService) {
     // Assign the data to the data source for the table to render
-    // this.dataSource = new MatTableDataSource();
+    this.dataSource = new MatTableDataSource();
   }
 
   /**
@@ -33,21 +31,16 @@ export class AppComponent implements AfterViewInit {
    * be able to query its view for the initialized paginator and sort.
    */
   ngAfterViewInit() {
-    this.dataSource = this.googleBooksService.searchBooks('angular');
-    /*
     this.googleBooksService.searchBooks('angular')
       .subscribe( data => this.dataSource.data = data);
     this.dataSource.paginator = this.paginator;
     this.dataSource.sort = this.sort;
-    */
   }
 
   applyFilter(filterValue: string) {
-    /*
     filterValue = filterValue.trim(); // Remove whitespace
     filterValue = filterValue.toLowerCase(); // Datasource defaults to lowercase matches
     this.dataSource.filter = filterValue;
-    */
   }
 }
 
