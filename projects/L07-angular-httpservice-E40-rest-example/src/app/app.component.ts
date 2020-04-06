@@ -18,7 +18,8 @@ import { Observable } from 'rxjs';
 export class AppComponent implements AfterViewInit {
   displayedColumns = ['id', 'name', 'progress', 'color'];
   // dataSource: MatTableDataSource<Book>;
-  dataSource: Observable<Book[]>;
+  dataSource$: Observable<Book[]>;
+  selectedBook$: Observable<Book>;
 
   @ViewChild(MatPaginator) paginator: MatPaginator;
   @ViewChild(MatSort) sort: MatSort;
@@ -33,7 +34,7 @@ export class AppComponent implements AfterViewInit {
    * be able to query its view for the initialized paginator and sort.
    */
   ngAfterViewInit() {
-    this.dataSource = this.googleBooksService.searchBooks('angular');
+    this.dataSource$ = this.googleBooksService.searchBooks('angular');
     /*
     this.googleBooksService.searchBooks('angular')
       .subscribe( data => this.dataSource.data = data);
@@ -42,12 +43,15 @@ export class AppComponent implements AfterViewInit {
     */
   }
 
-  applyFilter(filterValue: string) {
-    /*
+  queryFilter(filterValue: string) {
     filterValue = filterValue.trim(); // Remove whitespace
     filterValue = filterValue.toLowerCase(); // Datasource defaults to lowercase matches
-    this.dataSource.filter = filterValue;
-    */
+    // this.dataSource.filter = filterValue;
+    this.dataSource$ = this.googleBooksService.searchBooks(filterValue);
+  }
+
+  retrieveBook(volumeId: string) {
+    this.selectedBook$ = this.googleBooksService.retrieveBook(volumeId);
   }
 }
 

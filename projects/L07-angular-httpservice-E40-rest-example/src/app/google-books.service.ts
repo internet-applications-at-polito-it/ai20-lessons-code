@@ -9,14 +9,18 @@ import { Book } from './models/book.model';
 })
 export class GoogleBooksService {
 
-  private API_PATH = 'https://www.googleapis.com/books/v1/volumes';
+  private API_PATH = 'http://localhost:3000/books';
 
   constructor(private http: HttpClient) { }
 
   searchBooks(queryTitle: string): Observable<Book[]> {
     return this.http
-      .get<{ items: Book[] }>(`${this.API_PATH}?q=${queryTitle}&maxResults=40`)
-      .pipe(map(books => books.items || []));
+      .get<Book[]>(`${this.API_PATH}?q=${queryTitle}`)
+      .pipe(map(books => books || []));
   }
+
+  retrieveBook(volumeId: string): Observable<Book> {
+      return this.http.get<Book>(`${this.API_PATH}/${volumeId}`);
+    }
 
 }

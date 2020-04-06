@@ -1,14 +1,15 @@
-<!--
-  <div class="example-header">
+
+<div class="example-header">
   <mat-form-field>
-    <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Filter">
+    <input matInput (change)="queryFilter($event.target.value)" placeholder="Filter">
   </mat-form-field>
 </div>
--->
-
+<p>
+  Selected book: {{ selectedBook$ | async | json }}
+</p>
 <div class="example-container mat-elevation-z8">
 
-  <mat-table [dataSource]="dataSource" matSort>
+  <mat-table [dataSource]="dataSource$ | async" matSort>
 
     <!-- ID Column -->
     <ng-container matColumnDef="id">
@@ -19,23 +20,23 @@
     <!-- Progress Column -->
     <ng-container matColumnDef="progress">
       <mat-header-cell *matHeaderCellDef mat-sort-header> Title </mat-header-cell>
-      <mat-cell *matCellDef="let row"> {{row.volumeInfo.title}} </mat-cell>
+      <mat-cell *matCellDef="let row"> {{row.title}} </mat-cell>
     </ng-container>
 
     <!-- Name Column -->
     <ng-container matColumnDef="name">
       <mat-header-cell *matHeaderCellDef mat-sort-header> Author </mat-header-cell>
-      <mat-cell *matCellDef="let row"> {{row.volumeInfo.authors[0]}} </mat-cell>
+      <mat-cell *matCellDef="let row"> {{row.authors[0]}} </mat-cell>
     </ng-container>
 
     <!-- Color Column -->
     <ng-container matColumnDef="color">
       <mat-header-cell *matHeaderCellDef mat-sort-header> Year </mat-header-cell>
-      <mat-cell *matCellDef="let row" [style.color]="row"> {{row.volumeInfo.publishedDate.slice(0,4)}} </mat-cell>
+      <mat-cell *matCellDef="let row" [style.color]="row"> {{row.publishedDate.slice(0,4)}} </mat-cell>
     </ng-container>
 
     <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
-    <mat-row *matRowDef="let row; columns: displayedColumns;">
+    <mat-row *matRowDef="let row; columns: displayedColumns;" (click)="retrieveBook(row.id)">
     </mat-row>
   </mat-table>
 

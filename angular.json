@@ -1,5 +1,5 @@
 {
-  "defaultProject": "L07-angular-httpservice-E40-rest-example",
+  "defaultProject": "L10-angular-forms-E20-template-driven",
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "newProjectRoot": "projects",
@@ -1257,6 +1257,125 @@
           "configurations": {
             "production": {
               "devServerTarget": "L07-angular-httpservice-E40-rest-example:serve:production"
+            }
+          }
+        }
+      }
+    },
+    "L10-angular-forms-E20-template-driven": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "projects/L10-angular-forms-E20-template-driven",
+      "sourceRoot": "projects/L10-angular-forms-E20-template-driven/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/L10-angular-forms-E20-template-driven",
+            "index": "projects/L10-angular-forms-E20-template-driven/src/index.html",
+            "main": "projects/L10-angular-forms-E20-template-driven/src/main.ts",
+            "polyfills": "projects/L10-angular-forms-E20-template-driven/src/polyfills.ts",
+            "tsConfig": "projects/L10-angular-forms-E20-template-driven/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/L10-angular-forms-E20-template-driven/src/favicon.ico",
+              "projects/L10-angular-forms-E20-template-driven/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L10-angular-forms-E20-template-driven/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/L10-angular-forms-E20-template-driven/src/environments/environment.ts",
+                  "with": "projects/L10-angular-forms-E20-template-driven/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "L10-angular-forms-E20-template-driven:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "L10-angular-forms-E20-template-driven:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "L10-angular-forms-E20-template-driven:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/L10-angular-forms-E20-template-driven/src/test.ts",
+            "polyfills": "projects/L10-angular-forms-E20-template-driven/src/polyfills.ts",
+            "tsConfig": "projects/L10-angular-forms-E20-template-driven/tsconfig.spec.json",
+            "karmaConfig": "projects/L10-angular-forms-E20-template-driven/karma.conf.js",
+            "assets": [
+              "projects/L10-angular-forms-E20-template-driven/src/favicon.ico",
+              "projects/L10-angular-forms-E20-template-driven/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L10-angular-forms-E20-template-driven/src/styles.css"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/L10-angular-forms-E20-template-driven/tsconfig.app.json",
+              "projects/L10-angular-forms-E20-template-driven/tsconfig.spec.json",
+              "projects/L10-angular-forms-E20-template-driven/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/L10-angular-forms-E20-template-driven/e2e/protractor.conf.js",
+            "devServerTarget": "L10-angular-forms-E20-template-driven:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "L10-angular-forms-E20-template-driven:serve:production"
             }
           }
         }
