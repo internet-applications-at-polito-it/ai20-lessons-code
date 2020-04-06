@@ -1,0 +1,23 @@
+<h1>{{title}}</h1>
+<h2>My favorite hero is: {{myHero.str}}</h2>
+<input type="text" [value]="myHero.str">
+<input type="text" [(ngModel)]="myHero.str">
+
+<!-- <input type="text" [value]="myHero.str" (input)="myHero.str=$event.target.value"> -->
+
+<button (click)="shiftHeroUp()"><</button>
+<button (click)="shiftHeroDown()">></button>
+
+<p>Heroes:</p>
+<ul>
+  <li *ngFor="let hero of heroes">
+    {{ hero.str }}
+    </li>
+</ul>
+
+<p>
+Condition "heroes[0].str.length >= 8; else otherBlock" is
+<span *ngIf="heroes[0].str.length >= 8; else otherBlock">true</span>
+<ng-template #otherBlock><span>false</span></ng-template>
+</p>
+heroes[0] {{heroes[0] | json }}
