@@ -1,0 +1,351 @@
+{
+  "books": [
+    {
+      "authors": [
+        "L. Allen",
+        "Stephen M. Barnett",
+        "Miles J. Padgett"
+      ],
+      "publishedDate": "2016-04-19",
+      "title": "Optical Angular Momentum",
+      "id": "kZjSBQAAQBAJ"
+    },
+    {
+      "authors": [
+        "Davide Copelli"
+      ],
+      "publishedDate": "2017-07-06",
+      "title": "Angular 100% Operativo",
+      "id": "Vto4DwAAQBAJ"
+    },
+    {
+      "authors": [
+        "A. R. Edmonds"
+      ],
+      "publishedDate": "2016-08-10",
+      "title": "Angular Momentum in Quantum Mechanics",
+      "id": "YEWPDAAAQBAJ"
+    },
+    {
+      "authors": [
+        "D A Varshalovich",
+        "A N Moskalev",
+        "V K Khersonskii"
+      ],
+      "publishedDate": "1988-10-01",
+      "title": "Quantum Theory of Angular Momentum",
+      "id": "nXcGCwAAQBAJ"
+    },
+    {
+      "authors": [
+        "L.A. Willson",
+        "R. Stalio"
+      ],
+      "publishedDate": "2012-12-06",
+      "title": "Angular Momentum and Mass Loss for Hot Stars",
+      "id": "VjbqCAAAQBAJ"
+    },
+    {
+      "authors": [
+        "Dhananjay Kumar"
+      ],
+      "publishedDate": "2019-09-19",
+      "title": "EssentialsAngular",
+      "id": "OWOwDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "David L. Andrews",
+        "Mohamed Babiker"
+      ],
+      "publishedDate": "2013",
+      "title": "The Angular Momentum of Light",
+      "id": "li2bysEqHf0C"
+    },
+    {
+      "authors": [
+        "V. Devanathan"
+      ],
+      "publishedDate": "2006-04-11",
+      "title": "Angular Momentum Techniques in Quantum Mechanics",
+      "id": "KYThBwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Brain Judd"
+      ],
+      "publishedDate": "2012-12-02",
+      "title": "Angular Momentum Theory for Diatomic Molecules",
+      "id": "0yprSc8ivl8C"
+    },
+    {
+      "authors": [
+        "D. M. Brink",
+        "David Maurice Brink",
+        "George Raymond Satchler"
+      ],
+      "publishedDate": "1962",
+      "title": "Angular Momentum",
+      "id": "rssNAQAAIAAJ"
+    },
+    {
+      "authors": [
+        "Christoffer Noring",
+        "Pablo Deeleman"
+      ],
+      "publishedDate": "2017-12-08",
+      "title": "Learning Angular",
+      "id": "WMxPDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Julian Schwinger"
+      ],
+      "publishedDate": "2015-03-09",
+      "title": "On Angular Momentum",
+      "id": "LF80BwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Juan P. Torres",
+        "Lluis Torner"
+      ],
+      "publishedDate": "2011-03-31",
+      "title": "Twisted Photons",
+      "id": "WK-zHDuHET4C"
+    },
+    {
+      "authors": [
+        "Michael Danos",
+        "Vincent Gillet"
+      ],
+      "publishedDate": "1990",
+      "title": "Angular Momentum Calculus in Quantum Physics",
+      "id": "zYgSMSqQJGYC"
+    },
+    {
+      "authors": [
+        "Joshua Eisner"
+      ],
+      "publishedDate": "2005",
+      "title": "High Angular Resolution Studies of the Structure and Evolution of Protoplanetary Disks",
+      "id": "oZ8L7j5OAmQC"
+    },
+    {
+      "authors": [
+        "Duane V. Knudson"
+      ],
+      "publishedDate": "2003",
+      "title": "Fundamentals of Biomechanics",
+      "id": "js2P_8lbR2wC"
+    },
+    {
+      "authors": [
+        "Jurgen van de Moere",
+        "Florian Rappl",
+        "Ilya Bodrov-Krukowski",
+        "Jeff Smith",
+        "Michael Wanyoike",
+        "Todd Motto"
+      ],
+      "publishedDate": "2018-06-15",
+      "title": "Learn Angular: Related Tool & Skills",
+      "id": "u3tgDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Peter Merton McGinnis"
+      ],
+      "publishedDate": "2005",
+      "title": "Biomechanics of Sport and Exercise",
+      "id": "PrOKEcZXJ58C"
+    },
+    {
+      "authors": [
+        "William J. Thompson"
+      ],
+      "publishedDate": "2008-09-26",
+      "title": "Angular Momentum",
+      "id": "0NMjkQnQN6oC"
+    },
+    {
+      "authors": [
+        "Valeria D. Kleiman",
+        "Richard N. Zare",
+        "Hongkun Park",
+        "Robert J. Gordon"
+      ],
+      "publishedDate": "1998-09-30",
+      "title": "A Companion to Angular Momentum",
+      "id": "j-Wi3ZAK2nEC"
+    },
+    {
+      "authors": [
+        "Anil Singh"
+      ],
+      "publishedDate": "2019-09-18",
+      "title": "Angular Interview Questions and Answers",
+      "id": "BECwDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Shyam Seshadri"
+      ],
+      "publishedDate": "2018-05-31",
+      "title": "Angular: Up and Running",
+      "id": "CAFeDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Morris Edgar Rose"
+      ],
+      "publishedDate": "1995",
+      "title": "Elementary Theory of Angular Momentum",
+      "id": "3lSiev-MnLQC"
+    },
+    {
+      "authors": [
+        "Charlie Washington"
+      ],
+      "publishedDate": "2019-06-28",
+      "title": "Hands-on Reactive Programming in Angular with NgRx",
+      "id": "VJefDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Sohail Salehi"
+      ],
+      "publishedDate": "2017-02-24",
+      "title": "Angular Services",
+      "id": "zVMoDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Naval Research Laboratory (U.S.)"
+      ],
+      "publishedDate": "1975",
+      "title": "Tables of Angular Spheroidal Wave Functions: Prolate, m",
+      "id": "EbPvAAAAMAAJ"
+    },
+    {
+      "authors": [
+        "Brad Dayley",
+        "Brendan Dayley",
+        "Caleb Dayley"
+      ],
+      "publishedDate": "2017-09-19",
+      "title": "Learning Angular",
+      "id": "BHs2DwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Ewald Balcar",
+        "Stephen W. Lovesey"
+      ],
+      "publishedDate": "2009-09-18",
+      "title": "Introduction to the Graphical Theory of Angular Momentum",
+      "id": "I_26BQAAQBAJ"
+    },
+    {
+      "authors": [
+        "Henrik Smith"
+      ],
+      "publishedDate": "1991",
+      "title": "Introduction to Quantum Mechanics",
+      "id": "-0OWF1Z6vRIC"
+    },
+    {
+      "authors": [
+        "Eugene Feenberg",
+        "George Edward Pake"
+      ],
+      "publishedDate": "2013-01-23",
+      "title": "Notes on the Quantum Theory of Angular Momentum",
+      "id": "da7DAgAAQBAJ"
+    },
+    {
+      "authors": [
+        "Nele Boelaert"
+      ],
+      "publishedDate": "2011-10-26",
+      "title": "Dijet Angular Distributions in Proton-Proton Collisions",
+      "id": "QKVfSKhXoWMC"
+    },
+    {
+      "authors": [
+        "Manjunath M",
+        "Jeremy Wilken",
+        "Simon Holmes",
+        "Ilya Bodrov-Krukowski"
+      ],
+      "publishedDate": "2018-06-15",
+      "title": "Learn Angular: 4 Angular Projects",
+      "id": "vXtgDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Cory Rylan"
+      ],
+      "publishedDate": "2019-07-14",
+      "title": "Angular Form Essentials",
+      "id": "9leiDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "V. N. Gribov"
+      ],
+      "publishedDate": "2003-12-04",
+      "title": "The Theory of Complex Angular Momenta",
+      "id": "gS7we7IjvKQC"
+    },
+    {
+      "authors": [
+        "Edmund Alexander Sims"
+      ],
+      "publishedDate": "2016-08-28",
+      "title": "Angular Trifecta",
+      "id": "LWJVpPoJ_qkC"
+    },
+    {
+      "authors": [
+        "Victor N. Nikolaevskiy"
+      ],
+      "publishedDate": "2013-04-18",
+      "title": "Angular Momentum in Geophysical Turbulence",
+      "id": "_24yBwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Henning E. von Gierke",
+        "Eugene Steinmetz"
+      ],
+      "publishedDate": "1961",
+      "title": "Motion Devices for Linear and Angular Oscillation and for Abrupt Acceleration Studies on Human Subjects (impact)",
+      "id": "O5orAAAAYAAJ"
+    },
+    {
+      "authors": [
+        "Laura Brenneman"
+      ],
+      "publishedDate": "2013-06-26",
+      "title": "Measuring the Angular Momentum of Supermassive Black Holes",
+      "id": "o3aMUOxJrk0C"
+    },
+    {
+      "authors": [
+        "Venkata Keerti Kotaru"
+      ],
+      "publishedDate": "2019-12-09",
+      "title": "Angular for Material Design",
+      "id": "CTbDDwAAQBAJ"
+    },
+    {
+      "authors": [
+        "Robert G. Wilson"
+      ],
+      "publishedDate": "1978",
+      "title": "Angular sensitivity of controlled implanted doping profiles",
+      "id": "Sv9RtvFBXiwC"
+    }
+  ]
+}

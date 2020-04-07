@@ -1,5 +1,5 @@
 {
-  "defaultProject": "L10-angular-forms-E20-template-driven",
+  "defaultProject": "L07-angular-httpservice-E45-rest-example-autocomplete",
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "newProjectRoot": "projects",
@@ -1376,6 +1376,244 @@
           "configurations": {
             "production": {
               "devServerTarget": "L10-angular-forms-E20-template-driven:serve:production"
+            }
+          }
+        }
+      }
+    },
+    "L10-angular-forms-E40-reactive": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "projects/L10-angular-forms-E40-reactive",
+      "sourceRoot": "projects/L10-angular-forms-E40-reactive/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/L10-angular-forms-E40-reactive",
+            "index": "projects/L10-angular-forms-E40-reactive/src/index.html",
+            "main": "projects/L10-angular-forms-E40-reactive/src/main.ts",
+            "polyfills": "projects/L10-angular-forms-E40-reactive/src/polyfills.ts",
+            "tsConfig": "projects/L10-angular-forms-E40-reactive/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/L10-angular-forms-E40-reactive/src/favicon.ico",
+              "projects/L10-angular-forms-E40-reactive/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L10-angular-forms-E40-reactive/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/L10-angular-forms-E40-reactive/src/environments/environment.ts",
+                  "with": "projects/L10-angular-forms-E40-reactive/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "L10-angular-forms-E40-reactive:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "L10-angular-forms-E40-reactive:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "L10-angular-forms-E40-reactive:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/L10-angular-forms-E40-reactive/src/test.ts",
+            "polyfills": "projects/L10-angular-forms-E40-reactive/src/polyfills.ts",
+            "tsConfig": "projects/L10-angular-forms-E40-reactive/tsconfig.spec.json",
+            "karmaConfig": "projects/L10-angular-forms-E40-reactive/karma.conf.js",
+            "assets": [
+              "projects/L10-angular-forms-E40-reactive/src/favicon.ico",
+              "projects/L10-angular-forms-E40-reactive/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L10-angular-forms-E40-reactive/src/styles.css"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/L10-angular-forms-E40-reactive/tsconfig.app.json",
+              "projects/L10-angular-forms-E40-reactive/tsconfig.spec.json",
+              "projects/L10-angular-forms-E40-reactive/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/L10-angular-forms-E40-reactive/e2e/protractor.conf.js",
+            "devServerTarget": "L10-angular-forms-E40-reactive:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "L10-angular-forms-E40-reactive:serve:production"
+            }
+          }
+        }
+      }
+    },
+    "L07-angular-httpservice-E45-rest-example-autocomplete": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "projects/L07-angular-httpservice-E45-rest-example-autocomplete",
+      "sourceRoot": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/L07-angular-httpservice-E45-rest-example-autocomplete",
+            "index": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/index.html",
+            "main": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/main.ts",
+            "polyfills": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/polyfills.ts",
+            "tsConfig": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/favicon.ico",
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/environments/environment.ts",
+                  "with": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "L07-angular-httpservice-E45-rest-example-autocomplete:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "L07-angular-httpservice-E45-rest-example-autocomplete:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "L07-angular-httpservice-E45-rest-example-autocomplete:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/test.ts",
+            "polyfills": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/polyfills.ts",
+            "tsConfig": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/tsconfig.spec.json",
+            "karmaConfig": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/karma.conf.js",
+            "assets": [
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/favicon.ico",
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/src/styles.css"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/tsconfig.app.json",
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/tsconfig.spec.json",
+              "projects/L07-angular-httpservice-E45-rest-example-autocomplete/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/L07-angular-httpservice-E45-rest-example-autocomplete/e2e/protractor.conf.js",
+            "devServerTarget": "L07-angular-httpservice-E45-rest-example-autocomplete:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "L07-angular-httpservice-E45-rest-example-autocomplete:serve:production"
             }
           }
         }
