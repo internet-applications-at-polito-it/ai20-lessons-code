@@ -1,0 +1,14 @@
+<form [formGroup]="profileForm">
+  firstName: <input type="text" formControlName="firstName"><br>
+  lastName: <input type="text" formControlName="lastName"><br>
+  <span *ngIf="profileForm.controls.firstName.errors?.required"> Name is required. </span> 
+</form>
+<p>uncomment <i>updateOn: 'blur'</i> to limit change events to blur/enter</p>
+<pre>
+form value: {{ profileForm.value | json }}
+form status: {{ profileForm.status | json }}
+form valid: {{ profileForm.valid | json }}
+form firstName status: {{ profileForm.controls.firstName.status | json }}
+form lastName status: {{ profileForm.controls.lastName.status | json }}
+user: {{ user | json}}
+</pre>
