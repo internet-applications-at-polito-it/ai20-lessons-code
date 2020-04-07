@@ -1,7 +1,8 @@
 
 <div class="example-header">
   <mat-form-field>
-    <input matInput (change)="queryFilter($event.target.value)" placeholder="Filter">
+    <!-- (keyup)="queryFilter(searchInput.value)"  -->
+    <input matInput #searchInput placeholder="Type your search">
   </mat-form-field>
 </div>
 <p>
