@@ -1,5 +1,5 @@
 {
-  "defaultProject": "L10-angular-forms-E60-login",
+  "defaultProject": "L11-angular-routing-E30-mock-service",
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
   "version": 1,
   "newProjectRoot": "projects",
@@ -1736,6 +1736,125 @@
           "configurations": {
             "production": {
               "devServerTarget": "L10-angular-forms-E60-login:serve:production"
+            }
+          }
+        }
+      }
+    },
+    "L11-angular-routing-E30-mock-service": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "projects/L11-angular-routing-E30-mock-service",
+      "sourceRoot": "projects/L11-angular-routing-E30-mock-service/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/L11-angular-routing-E30-mock-service",
+            "index": "projects/L11-angular-routing-E30-mock-service/src/index.html",
+            "main": "projects/L11-angular-routing-E30-mock-service/src/main.ts",
+            "polyfills": "projects/L11-angular-routing-E30-mock-service/src/polyfills.ts",
+            "tsConfig": "projects/L11-angular-routing-E30-mock-service/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/L11-angular-routing-E30-mock-service/src/favicon.ico",
+              "projects/L11-angular-routing-E30-mock-service/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L11-angular-routing-E30-mock-service/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/L11-angular-routing-E30-mock-service/src/environments/environment.ts",
+                  "with": "projects/L11-angular-routing-E30-mock-service/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "L11-angular-routing-E30-mock-service:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "L11-angular-routing-E30-mock-service:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "L11-angular-routing-E30-mock-service:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/L11-angular-routing-E30-mock-service/src/test.ts",
+            "polyfills": "projects/L11-angular-routing-E30-mock-service/src/polyfills.ts",
+            "tsConfig": "projects/L11-angular-routing-E30-mock-service/tsconfig.spec.json",
+            "karmaConfig": "projects/L11-angular-routing-E30-mock-service/karma.conf.js",
+            "assets": [
+              "projects/L11-angular-routing-E30-mock-service/src/favicon.ico",
+              "projects/L11-angular-routing-E30-mock-service/src/assets"
+            ],
+            "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+              "projects/L11-angular-routing-E30-mock-service/src/styles.css"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/L11-angular-routing-E30-mock-service/tsconfig.app.json",
+              "projects/L11-angular-routing-E30-mock-service/tsconfig.spec.json",
+              "projects/L11-angular-routing-E30-mock-service/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/L11-angular-routing-E30-mock-service/e2e/protractor.conf.js",
+            "devServerTarget": "L11-angular-routing-E30-mock-service:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "L11-angular-routing-E30-mock-service:serve:production"
             }
           }
         }
