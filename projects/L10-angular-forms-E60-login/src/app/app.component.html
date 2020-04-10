@@ -18,9 +18,9 @@
   </mat-form-field>
   <br>
   <button mat-raised-button color="primary" (click)="login()">Login</button>
-  <button mat-raised-button disabled>Logout</button>
+  <button mat-raised-button color="warn" (click)="logout()">Logout</button>
 <br>
 <p>Run with proxy as ng serve --proxy-config projects/L10-angular-forms-E60-login/src/proxy.conf.json</p>
 <p>Available user has "email": "olivier@mail.com" and "password": "bestPassw0rd"</p>
-<p>Run <a href="https://www.npmjs.com/package/json-server-auth">json-server-auth</a> as ./node_modules/json-server-auth/dist/bin.jst projects/L10-angular-forms-E60-login/db.json</p>
+<p>Run <a href="https://www.npmjs.com/package/json-server-auth">json-server-auth</a> as ./node_modules/json-server-auth/dist/bin.js projects/L10-angular-forms-E60-login/db.json -r projects/L10-angular-forms-E60-login/routes.json </p>
 </form>

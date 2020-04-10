@@ -15,8 +15,8 @@ export class AppComponent {
   constructor(private fb: FormBuilder, private authService: AuthService) {
 
     this.form = this.fb.group({
-      email: ['test@gmail.com', Validators.required],
-      password: ['Password10', Validators.required]
+      email: ['olivier@mail.com', Validators.required],
+      password: ['bestPassw0rd', Validators.required]
     });
 
   }
@@ -25,8 +25,8 @@ export class AppComponent {
     const val = this.form.value;
     if (val.email && val.password) {
       this.authService.login(val.email, val.password)
-        .subscribe(() => {
-          console.log('User is logged in');
+        .subscribe((_) => {
+          console.log('User is logged in. Received: ' + JSON.stringify(_));
           // this.router.navigateByUrl('/');
         }
         );
@@ -34,6 +34,6 @@ export class AppComponent {
   }
 
   logout() {
-    this.authService.logout().subscribe();
+    this.authService.logout(); /*.subscribe();*/
   }
 }
