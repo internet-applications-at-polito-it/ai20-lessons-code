@@ -1,0 +1,2 @@
+jq " .items | map({ authors: .volumeInfo.authors, publishedDate: .volumeInfo.publishedDate, title: .volumeInfo.title, id: .id  })" books_.json  
+

@@ -1,0 +1,3559 @@
+{
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "kZjSBQAAQBAJ",
+   "etag": "5fbZqeXqAwY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/kZjSBQAAQBAJ",
+   "volumeInfo": {
+    "title": "Optical Angular Momentum",
+    "authors": [
+     "L. Allen",
+     "Stephen M. Barnett",
+     "Miles J. Padgett"
+    ],
+    "publisher": "CRC Press",
+    "publishedDate": "2016-04-19",
+    "description": "Spin angular momentum of photons and the associated polarization of light has been known for many years. However, it is only over the last decade or so that physically realizable laboratory light beams have been used to study the orbital angular momentum of light. In many respects, orbital and spin angular momentum behave in a similar manner, but they differ significantly in others. In particular, orbital angular momentum offers exciting new possibilities with respect to the optical manipulation of matter and to the study of the entanglement of photons. Bringing together 44 landmark papers, Optical Angular Momentum offers the first comprehensive overview of the subject as it has developed. It chronicles the first decade of this important subject and gives a definitive statement of the current status of all aspects of optical angular momentum. In each chapter the editors include a concise introduction, putting the selected papers into context and outlining the key articles associated with this aspect of the subject.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781482269017"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1482269015"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 300,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=kZjSBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=kZjSBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=kZjSBQAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=1&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=kZjSBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kZjSBQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 192.4,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 151.49,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=kZjSBQAAQBAJ&rdid=book-kZjSBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.924E8,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.5149E8,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Optical_Angular_Momentum-sample-pdf.acsm?id=kZjSBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=kZjSBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Spin angular momentum of photons and the associated polarization of light has been known for many years."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Vto4DwAAQBAJ",
+   "etag": "zBjab89zN5c",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Vto4DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular 100% Operativo",
+    "subtitle": "Da zero alla realizzazione di una Web APP, in 24 ore",
+    "authors": [
+     "Davide Copelli"
+    ],
+    "publisher": "Video-Corsi.com Editore",
+    "publishedDate": "2017-07-06",
+    "description": "Creare App in Angular in meno di 24 ore - (Ultimo aggiornamento: 2 giorni fa) - E' un libro pensato per farti diventare subito operativo nell'uso di Angular con TypeScript, perché seguirai passo passo lo sviluppo di un'intera Web APP (MetroChat), che farà da cornice per apprendere gran parte dei concetti di Angular, come: • le differenze con lo sviluppo di siti web • la progettazione di componente intelligenti • la navigazione e il cambio di stato • il passaggio di dati tra componenti • la modellazioni di dati • la gestione delle azioni fatte dall’utente • la comunicazione via HTTP con API remote • le basi per raccogliere dati con i form il tutto con un linguaggio semplice e lineare, con approfondimento VIDEO e altro materiale consultabile online nel sito CreareApp StartUniversity all'indirizzo: https://www.creareapp.com. Essendo un libro operativo, sono richieste delle conoscenze base di JavaScript, TypeScript, HTML, CSS e PHP al fine di seguire al meglio i concetti spiegati nel libro, ma soprattutto per poterli applicare da subito allo sviluppo della tua web app o siti web in Angular.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788894280203"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8894280209"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 219,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Vto4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Vto4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "it",
+    "previewLink": "http://books.google.it/books?id=Vto4DwAAQBAJ&pg=PA119&dq=angular&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=Vto4DwAAQBAJ&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Angular_100_Operativo.html?hl=&id=Vto4DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Vto4DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "10.2 Configurare il file AppModule Abbiamo già detto in precedenza che il punto \u003cbr\u003e\ndi partenza per l&#39;introduzione di nuove funzionalità per un&#39;applicazione \u003cb\u003eAngular\u003c/b\u003e è \u003cbr\u003e\nil modulo radice, che per convenzione è chiamato AppModule Per gestire la&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "YEWPDAAAQBAJ",
+   "etag": "Pdf3H/+m0KY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/YEWPDAAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular Momentum in Quantum Mechanics",
+    "authors": [
+     "A. R. Edmonds"
+    ],
+    "publisher": "Princeton University Press",
+    "publishedDate": "2016-08-10",
+    "description": "This book offers a concise introduction to the angular momentum, one of the most fundamental quantities in all of quantum mechanics. Beginning with the quantization of angular momentum, spin angular momentum, and the orbital angular momentum, the author goes on to discuss the Clebsch-Gordan coefficients for a two-component system. After developing the necessary mathematics, specifically spherical tensors and tensor operators, the author then investigates the 3-j, 6-j, and 9-j symbols. Throughout, the author provides practical applications to atomic, molecular, and nuclear physics. These include partial-wave expansions, the emission and absorption of particles, the proton and electron quadrupole moment, matrix element calculation in practice, and the properties of the symmetrical top molecule.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781400884186"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1400884187"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.2.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=YEWPDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=YEWPDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=YEWPDAAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=3&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=YEWPDAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YEWPDAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 37.43,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 26.2,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=YEWPDAAAQBAJ&rdid=book-YEWPDAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.743E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.62E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Momentum_in_Quantum_Mechanics-sample-pdf.acsm?id=YEWPDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=YEWPDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book offers a concise introduction to the angular momentum, one of the most fundamental quantities in all of quantum mechanics."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "nXcGCwAAQBAJ",
+   "etag": "OWAA7Uxktzs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/nXcGCwAAQBAJ",
+   "volumeInfo": {
+    "title": "Quantum Theory of Angular Momentum",
+    "authors": [
+     "D A Varshalovich",
+     "A N Moskalev",
+     "V K Khersonskii"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "1988-10-01",
+    "description": "This is the most complete handbook on the quantum theory of angular momentum. Containing basic definitions and theorems as well as relations, tables of formula and numerical tables which are essential for applications to many physical problems, the book is useful for specialists in nuclear and particle physics, atomic and molecular spectroscopy, plasma physics, collision and reaction theory, quantum chemistry, etc. The authors take pains to write many formulae in different coordinate systems thus providing users with added ease in consulting this book. Each chapter opens with a comprehensive list of its contents to ease the search for any information needed later. New results relating to different aspects of the angular momentum thoery are also included. Containing close to 500 pages this book also gathers together many useful formulae besides those related to angular momentum. The book also compares different notations used by previous authors. Contents:Elements of Vectors and Tensor TheoryAngular Momentum OperatorsIrreducible TensorsWigner D-FunctionsSpherical HarmonicsSpin FunctionsTensor Spherical HarmonicsClebsch-Gordan Coefficients and 3jm-Symbols6j-Symbols and the Racah Coefficients9j- and 12j-SymbolsGraphical Methods in Angular Momentum TheorySums Involving Vector Addition and Recoupling CoefficientsMatrix Elements of Irreducible Tensor OperatorsGlossary of Symbols and Notations Readership: Physicists and chemists. Keywords:Angular Momentum;Vectors Theory;Tensor Theory;Wigner D-Functions;Spherical Harmonics;Spin Functions;Tensor Spherical Harmonics;Clebsch-Gordan Coefficients;Racah CoefficientsReview: “… a number of good textbooks on the theory of angular momentum are already in existence. However, none of these seems to be as comprehensive as the book under review.” M A Rashid Mathematical Reviews, (USA)",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789814578288"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9814578282"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 528,
+    "printType": "BOOK",
+    "categories": [
+     "Angular momentum (Nuclear physics)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=nXcGCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=nXcGCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=nXcGCwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=4&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=nXcGCwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=nXcGCwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 42.64,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 29.85,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=nXcGCwAAQBAJ&rdid=book-nXcGCwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.264E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.985E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Quantum_Theory_of_Angular_Momentum-sample-pdf.acsm?id=nXcGCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=nXcGCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Containing close to 500 pages this book also gathers together many useful formulae besides those related to angular momentum. The book also compares different notations used by previous authors."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VjbqCAAAQBAJ",
+   "etag": "gKw+wtQtPhE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VjbqCAAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular Momentum and Mass Loss for Hot Stars",
+    "authors": [
+     "L.A. Willson",
+     "R. Stalio"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2012-12-06",
+    "description": "Fundamental unsolved problems of stellar astrophysics include the effects of angular momentum on stellar structure and evolution, the nature and efficiency of the processes by which angular momentum is redistributed within and lost from stars, and the role that stellar rotation plays in enhancing or driving stellar mass loss. There appears to be a qualitative change in the nature and efficiency of these mechanisms near spectral type FO: hotter (more massive) stars typically retain more angular momentum at least until they reach the main sequence, while cooler stars typically spin down quickly. For the hotter stars, recent work suggests a strong link between the type of pulsation behavior, the mass loss rates, and the rotation velocity. If the same mechanisms are able to drive mass loss from the main sequence A stars, as has recently been proposed, then the current interpretations of a number of observations will be drastically affected: e. g. the ages of clusters may be incorrect by up to a factor of two, and the surface abundances of isotopes of He, Li and Be may no longer give constraints on cosmological nucleosynthesis. There are also effects on the evolution of the abundances of elements in the interstellar medium and on the general evolution of populations of stars. Thus the questions of the mechanisms of angular momentum and mass loss of stars more massive than the sun is important not only for stellar studies but for the foundations of much of modern astrophysics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789400921054"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9400921055"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 365,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VjbqCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VjbqCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=VjbqCAAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=5&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VjbqCAAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VjbqCAAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 145.59,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 101.91,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VjbqCAAAQBAJ&rdid=book-VjbqCAAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.4559E8,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0191E8,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Momentum_and_Mass_Loss_for_Hot_S-sample-pdf.acsm?id=VjbqCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VjbqCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Fundamental unsolved problems of stellar astrophysics include the effects of angular momentum on stellar structure and evolution, the nature and efficiency of the processes by which angular momentum is redistributed within and lost from ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "OWOwDwAAQBAJ",
+   "etag": "yiZqEgBZMBE",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/OWOwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "EssentialsAngular",
+    "subtitle": "The Essential Guide to Learn Angular",
+    "authors": [
+     "Dhananjay Kumar"
+    ],
+    "publisher": "BPB Publications",
+    "publishedDate": "2019-09-19",
+    "description": "Basic to Advance learning of Angular concepts DESCRIPTION This book is an Essentials guide for every Angular developer. It covers all required topics an Angular developer need to get started. This book is written in Angular version 7 and explains vital concepts of Angular in extremely descriptive way with lot of code examples. KEY FEATURES A complete overview of the key aspects of Angular Up to date with the latest Angular release The book covers the framework's mental model, API, and the design principles behind it. WHAT WILL YOU LEARN Components & Binding, Web API SPAs & Routing, Template Driven Forms Forms, HTTP Unit Testing, ngModel, Angular Directives Pipes, Ignite UI WHO THIS BOOK IS FOR Students of Polytechnic Diploma Classes- Computer Science/ Information Technology Graduate Students- Computer Science/ CSE / IT/ Computer Applications Master Class Students—Msc (CS/IT)/ MCA/ M.Phil, M.Tech, M.S. Industry Professionals- Preparing for Certifications Table of Contents 1. Introduction 2. Component and Data Binding 3. Components Communications 4. Angular Directives 5. ViewEncapsulation in Angular 6. Pipes 7. Template Driven Forms 8. Reactive Forms 9. Angular Routing 10. Change Detection 11. Services and Providers 12. Working with API and $http 13. Advanced Components",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789388511247"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9388511247"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 210,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=OWOwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=OWOwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=OWOwDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=6&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=OWOwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OWOwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.43,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 6.41,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=OWOwDwAAQBAJ&rdid=book-OWOwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9430000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 6410000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/EssentialsAngular-sample-epub.acsm?id=OWOwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/EssentialsAngular-sample-pdf.acsm?id=OWOwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=OWOwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Basic to Advance learning of Angular concepts DESCRIPTION This book is an Essentials guide for every Angular developer."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "li2bysEqHf0C",
+   "etag": "rlAdWtG2RvQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/li2bysEqHf0C",
+   "volumeInfo": {
+    "title": "The Angular Momentum of Light",
+    "authors": [
+     "David L. Andrews",
+     "Mohamed Babiker"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2013",
+    "description": "The first comprehensive and authoritative coverage of the angular momentum of light, illustrating both its theoretical and applied aspects.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781107006348"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1107006341"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 425,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=li2bysEqHf0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=li2bysEqHf0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=li2bysEqHf0C&printsec=frontcover&dq=angular&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=li2bysEqHf0C&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/The_Angular_Momentum_of_Light.html?hl=&id=li2bysEqHf0C"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=li2bysEqHf0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The first comprehensive and authoritative coverage of the angular momentum of light, illustrating both its theoretical and applied aspects."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "KYThBwAAQBAJ",
+   "etag": "KhIHCxUHuX8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/KYThBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular Momentum Techniques in Quantum Mechanics",
+    "authors": [
+     "V. Devanathan"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2006-04-11",
+    "description": "A course in angular momentum techniques is essential for quantitative study of problems in atomic physics, molecular physics, nuclear physics and solid state physics. This book has grown out of such a course given to the students of the M. Sc. and M. Phil. degree courses at the University of Madras. An elementary knowledge of quantum mechanics is an essential pre-requisite to undertake this course but no knowledge of group theory is assumed on the part of the readers. Although the subject matter has group-theoretic origin, special efforts have been made to avoid the gro- theoretical language but place emphasis on the algebraic formalism dev- oped by Racah (1942a, 1942b, 1943, 1951). How far I am successful in this project is left to the discerning reader to judge. After the publication of the two classic books, one by Rose and the other by Edmonds on this subject in the year 1957, the application of angular momentum techniques to solve physical problems has become so common that it is found desirable to organize a separate course on this subject to the students of physics. It is to cater to the needs of such students and research workers that this book is written. A large number of questions and problems given at the end of each chapter will enable the reader to have a clearer understanding of the subject.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306471230"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "030647123X"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 242,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=KYThBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=KYThBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=KYThBwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=8&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=KYThBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KYThBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 155.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 109.19,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=KYThBwAAQBAJ&rdid=book-KYThBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.5599E8,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0919E8,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Momentum_Techniques_in_Quantum_M-sample-pdf.acsm?id=KYThBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=KYThBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book has grown out of such a course given to the students of the M. Sc. and M. Phil. degree courses at the University of Madras."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0yprSc8ivl8C",
+   "etag": "vobYCuK4pqs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0yprSc8ivl8C",
+   "volumeInfo": {
+    "title": "Angular Momentum Theory for Diatomic Molecules",
+    "authors": [
+     "Brain Judd"
+    ],
+    "publisher": "Elsevier",
+    "publishedDate": "2012-12-02",
+    "description": "Angular Momentum Theory for Diatomic Molecules focuses on the application of angular momentum theory in describing the complex dynamical processes in molecules. The manuscript first offers information on tensor algebra and rotation group. Discussions focus on commutation relations, spherical and double tensors, rotations, coupling, reduced matrix elements, quaternions, combination theorem for Gegenbauer polynomials, and combination theorems for spherical harmonics. The book then takes a look at R(4) in physical systems and hydrogen molecular ion, including rigid rotator, reversed angular momentum, reduced matrix elements, spheroidal coordinates, and hydrogen atom in spheroidal coordinates. The publication examines expansions and free diatomic molecules. Topics include angular momentum, molecular frame, primitive energy spectrum, rotating oscillator and hydrogen atom, expressions for electric potentials, delta functions, and Neumann expansion. The manuscript also considers external fields and perturbations. The text is a dependable reference for readers interested in the application of angular momentum theory in identifying the dynamical processes going on in molecules.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780323159050"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0323159052"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 250,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0yprSc8ivl8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0yprSc8ivl8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=0yprSc8ivl8C&pg=PR9&dq=angular&hl=&cd=9&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0yprSc8ivl8C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0yprSc8ivl8C"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 66.49,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 46.54,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0yprSc8ivl8C&rdid=book-0yprSc8ivl8C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.649E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.654E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Momentum_Theory_for_Diatomic_Mol-sample-pdf.acsm?id=0yprSc8ivl8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0yprSc8ivl8C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "It has been recognized for a long time that \u003cb\u003eangular\u003c/b\u003e momentum theory provides a \u003cbr\u003e\nconvenient framework for describing the complex dynamical processes going on \u003cbr\u003e\nin a molecule. As early as 1927, Hund showed how molecular kinetics could be&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "rssNAQAAIAAJ",
+   "etag": "b2wmB5JFU/Q",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/rssNAQAAIAAJ",
+   "volumeInfo": {
+    "title": "Angular Momentum",
+    "authors": [
+     "D. M. Brink",
+     "David Maurice Brink",
+     "George Raymond Satchler"
+    ],
+    "publishedDate": "1962",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "STANFORD:36105016493764"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 134,
+    "printType": "BOOK",
+    "categories": [
+     "Angular momentum (Nuclear physics)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=rssNAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=rssNAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=rssNAQAAIAAJ&q=angular&dq=angular&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=rssNAQAAIAAJ&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Angular_Momentum.html?hl=&id=rssNAQAAIAAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=rssNAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WMxPDwAAQBAJ",
+   "etag": "C+mVC7PiGrk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WMxPDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Learning Angular",
+    "subtitle": "A no-nonsense guide to building real-world apps with Angular 5",
+    "authors": [
+     "Christoffer Noring",
+     "Pablo Deeleman"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2017-12-08",
+    "description": "Build modern SPAs by learning the latest and powerful features of Angular 5 and TypeScript 2.x About This Book The best overview of Angular 5 on the market, this guide gathers together everything there is to know about Angular 5 and groups it into intuitive sections. Learn to build, grow and test powerful and scalable mobile and desktop web applications with Angular Explore the latest features of Angular 5 and TypeScript 2.4 by building a complete responsive application from scratch. Deliver seamless web navigation experiences with application routing and state handling common features with ease The author has done all the hard work of fitting everything Angular 5 means for developers, making this book the quickest way to learn Angular 5 from scratch. Who This Book Is For This book is for web developers who want to build the next generation of state-of-the-art mobile and desktop web applications with Angular. This book does not require you to have prior exposure to either Angular 1.x, 2 or 4, although comprehensive knowledge of JavaScript is assumed. What You Will Learn Set up the workspace and the project using webpack and Angular-Cli Explore the features of TypeScript and organize the code in ES6 modules Work with HTTP and Data Services and understand how data can flow in the app Create multiple views and learn how to navigate between them Make the app beautiful by adding Material Design Implement two different types of form handling and its validation Add animation to some standard events such as route change, initialization, data load, and so on Discover how to bulletproof your applications by introducing smart unit testing techniques and debugging tools In Detail The latest version of Angular comes with a lot of new features that help you to make your applications smaller and faster. This book will show you how to set up an Angular project, and you'll build Angular components right from the beginning. Moving on, you'll explore and work with the components to build your app. Next, you'll find out more about TypeScript and see how to use it to build apps in the best way possible. You'll then be introduced to the building blocks - Properties, Events, Directives, and Pipes - and how it can be used to implement and enhance the components. Additionally, you'll be using Angular components to organize your components in a scalable way. Then you'll understand how to get data in your app and add navigation to it. Furthermore, you'll deep dive and work with Forms, Authentication, and see how Material design will help you make your app beautiful in just a few short lines of code. Lastly, you'll see how to use animating components with Angular, and test and debug the app. All in all, the overall mission is to give you a great start when developing apps using Angular and TypeScript. Style and approach This book tells you everything there is to know about getting well-acquainted with Angular without bogging you down. Everything is neatly laid out under clear headings for quick consultation, giving you the information required to understand a concept immediately. You'll also get full coverage of the TypeScript syntax required to follow the examples included.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781787125940"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1787125947"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 456,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WMxPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WMxPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=WMxPDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=11&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WMxPDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WMxPDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 36.39,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 25.47,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WMxPDwAAQBAJ&rdid=book-WMxPDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.639E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.547E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WMxPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Build modern SPAs by learning the latest and powerful features of Angular 5 and TypeScript 2.x About This Book The best overview of Angular 5 on the market, this guide gathers together everything there is to know about Angular 5 and groups ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LF80BwAAQBAJ",
+   "etag": "nJN+SzlUzOs",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LF80BwAAQBAJ",
+   "volumeInfo": {
+    "title": "On Angular Momentum",
+    "authors": [
+     "Julian Schwinger"
+    ],
+    "publisher": "Courier Dover Publications",
+    "publishedDate": "2015-03-09",
+    "description": "A concise treatment by the future winner of the 1965 Nobel Prize in Physics, this work was first published under the auspices of the United States Atomic Energy Commission in 1952.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486801889"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486801888"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.8.6.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LF80BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LF80BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=LF80BwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=12&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LF80BwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LF80BwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.41,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 6.4,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LF80BwAAQBAJ&rdid=book-LF80BwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9410000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 6400000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/On_Angular_Momentum-sample-epub.acsm?id=LF80BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/On_Angular_Momentum-sample-pdf.acsm?id=LF80BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LF80BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "A concise treatment by the future winner of the 1965 Nobel Prize in Physics, this work was first published under the auspices of the United States Atomic Energy Commission in 1952."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WK-zHDuHET4C",
+   "etag": "hIxXhSB2uS8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WK-zHDuHET4C",
+   "volumeInfo": {
+    "title": "Twisted Photons",
+    "subtitle": "Applications of Light with Orbital Angular Momentum",
+    "authors": [
+     "Juan P. Torres",
+     "Lluis Torner"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2011-03-31",
+    "description": "This book deals with applications in several areas of science and technology that make use of light which carries orbital angular momentum. In most practical scenarios, the angular momentum can be decomposed into two independent contributions: the spin angular momentum and the orbital angular momentum. The orbital contribution affords a fundamentally new degree of freedom, with fascinating and wide-spread applications. Unlike spin angular momentum, which is associated with the polarization of light, the orbital angular momentum arises as a consequence of the spatial distribution of the intensity and phase of an optical field, even down to the single photon limit. Researchers have begun to appreciate its implications for our understanding of the ways in which light and matter can interact, and its practical potential in different areas of science and technology.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783527635375"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3527635378"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 288,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.4.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=WK-zHDuHET4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=WK-zHDuHET4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=WK-zHDuHET4C&printsec=frontcover&dq=angular&hl=&cd=13&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=WK-zHDuHET4C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WK-zHDuHET4C"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 138.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 138.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=WK-zHDuHET4C&rdid=book-WK-zHDuHET4C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3899E8,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.3899E8,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Twisted_Photons-sample-epub.acsm?id=WK-zHDuHET4C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Twisted_Photons-sample-pdf.acsm?id=WK-zHDuHET4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=WK-zHDuHET4C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book deals with applications in several areas of science and technology that make use of light which carries orbital angular momentum."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zYgSMSqQJGYC",
+   "etag": "Hm2B+8GJUbk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zYgSMSqQJGYC",
+   "volumeInfo": {
+    "title": "Angular Momentum Calculus in Quantum Physics",
+    "authors": [
+     "Michael Danos",
+     "Vincent Gillet"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "1990",
+    "description": "This book is concerned with the practical aspects of solving angular momentum problems. The novel but fully tested-out method (the Invariant Graph Method) allows one to write down from a single graph the complete final result of the problem. The drawing of the graph involves very few simple, essentially self-evident rules. Still it is a powerful tool to easily solve the most involved physical problems.The method is introduced step-by-step in a sequence of examples, beginning with the simplest matrix elements, and ending with the most general case of a reaction including angular distributions and correlations. The many-body and particle anti-particle systems are fully developed. All aspects: wave functions, vectors, operators, Fock space state vectors and operators, etc., are treated on the same footing. All concepts of angular momentum theory acquire a transparent meaning. Hence the book is valuable not only as a handbook in problem solving, but extremely so as an adjunct in any course on advanced qunatum physics, atomic, molecular, nuclear and particle physics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9810204124"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789810204129"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 163,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zYgSMSqQJGYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zYgSMSqQJGYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=zYgSMSqQJGYC&pg=PA1&dq=angular&hl=&cd=14&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=zYgSMSqQJGYC&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Angular_Momentum_Calculus_in_Quantum_Phy.html?hl=&id=zYgSMSqQJGYC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zYgSMSqQJGYC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "INTRODUCTION To the reader This book will teach you the skills needed to \u003cbr\u003e\nhandle problems that both theoreticians and experimentalists may encounter in \u003cbr\u003e\nany \u003cb\u003eangular\u003c/b\u003e momentum calculations of quantum physics. You will learn to treat \u003cbr\u003e\nthese&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "oZ8L7j5OAmQC",
+   "etag": "JuiZHIqr3es",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/oZ8L7j5OAmQC",
+   "volumeInfo": {
+    "title": "High Angular Resolution Studies of the Structure and Evolution of Protoplanetary Disks",
+    "authors": [
+     "Joshua Eisner"
+    ],
+    "publisher": "Universal-Publishers",
+    "publishedDate": "2005",
+    "description": "Young stars are surrounded by massive, rotating disks of dust and gas, which supply a reservoir of material that may be incorporated into planets or accreted onto the central star. In this dissertation, I use high angular resolution observations at a range of wavelengths to understand the structure, ubiquity, and evolutionary timescales of protoplanetary disks. First, I describe a study of Class I protostars, objects believed to be at an evolutionary stage between collapsing spherical clouds and fully-assembled young stars surrounded by protoplanetary disks. I use a Monte Carlo radiative transfer code to model new 0.9 micron scattered light images, 1.3 mm continuum images, and broadband spectral energy distributions. This modeling shows that Class I sources are probably surrounded by massive protoplanetary disks embedded in massive infalling envelopes. For the best-fitting models of the circumstellar dust distributions, I determine several important properties, including envelope and disk masses, mass infall rates, and system inclinations, and I use these results to constrain the evolutionary stage of these objects. Second, I discuss observations of the innermost regions of more evolved disks around T Tauri and Herbig Ae/Be stars, obtained with the Palomar Testbed and Keck Interferometers. I constrain the spatial and temperature structure of the circumstellar material at sub-AU radii, and demonstrate that lower-mass stars are surrounded by inclined disks with puffed-up inner edges 0.1-1 AU from the star. In contrast, the truncated inner disks around more massive stars may not puff-up, indicating that disk structure depends on stellar properties. I discuss the implications of these results for disk accretion, terrestrial planet formation and giant planet migration. Finally, I put these detailed studies of disk structure into a broader context by constraining the mass distribution and evolutionary timescales of circumstellar disks. Using the Owens Valley Millimeter Array, I mapped the millimeter continuum emission toward \u003e300 low-mass stars in the NGC 2024 and Orion Nebula clusters. These observations demonstrate that the average disk mass in each cluster is comparable to the \"minimum-mass protosolar nebula,\" and that there may be disk evolution on one million year timescales.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781581122800"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1581122802"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=oZ8L7j5OAmQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=oZ8L7j5OAmQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=oZ8L7j5OAmQC&pg=PA14&dq=angular&hl=&cd=15&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=oZ8L7j5OAmQC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oZ8L7j5OAmQC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 22.61,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 15.83,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=oZ8L7j5OAmQC&rdid=book-oZ8L7j5OAmQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.261E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.583E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/High_Angular_Resolution_Studies_of_the_S-sample-pdf.acsm?id=oZ8L7j5OAmQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=oZ8L7j5OAmQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Interferometry provides a way to attain very high \u003cb\u003eangular\u003c/b\u003e resolution without \u003cbr\u003e\nbuilding a very large-aperture telescope. Small apertures separated by a \u003cbr\u003e\nbaseline B are used to “synthesize” a larger aperture and thus obtain an \u003cb\u003eangular\u003c/b\u003e \u003cbr\u003e\nresolution&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "js2P_8lbR2wC",
+   "etag": "DztaxrONBZM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/js2P_8lbR2wC",
+   "volumeInfo": {
+    "title": "Fundamentals of Biomechanics",
+    "authors": [
+     "Duane V. Knudson"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2003",
+    "description": "Fundamentals of Biomechanics introduces the exciting world of how human movement is created and how it can be improved. Teachers, coaches and physical therapists all use biomechanics to help people improve movement and decrease the risk of injury. The book presents a comprehensive review of the major concepts of biomechanics and summarizes them in nine principles of biomechanics. Fundamentals of Biomechanics concludes by showing how these principles can be used by movement professionals to improve human movement. Specific case studies are presented in physical education, coaching, strength and conditioning, and sports medicine.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0306474743"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780306474743"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 310,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=js2P_8lbR2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=js2P_8lbR2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=js2P_8lbR2wC&pg=PA121&dq=angular&hl=&cd=16&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=js2P_8lbR2wC&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Fundamentals_of_Biomechanics.html?hl=&id=js2P_8lbR2wC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Fundamentals_of_Biomechanics-sample-pdf.acsm?id=js2P_8lbR2wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=js2P_8lbR2wC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The \u003cb\u003eangular\u003c/b\u003e velocities of joints are particularly relevant in biomechanics, \u003cbr\u003e\nbecause they represent the \u003cb\u003eangular\u003c/b\u003e speed of anatomical motions. If relative \u003cbr\u003e\nangles are calculated between anatomical segments, the \u003cb\u003eangular\u003c/b\u003e velocities \u003cbr\u003e\ncalculated can&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "u3tgDwAAQBAJ",
+   "etag": "zLtcUCrabp0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/u3tgDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Learn Angular: Related Tool & Skills",
+    "authors": [
+     "Jurgen van de Moere",
+     "Florian Rappl",
+     "Ilya Bodrov-Krukowski",
+     "Jeff Smith",
+     "Michael Wanyoike",
+     "Todd Motto"
+    ],
+    "publisher": "SitePoint",
+    "publishedDate": "2018-06-15",
+    "description": "Angular is not just a framework, but rather a platform that empowers developers to build applications for the web, mobile, and the desktop. This book provides an overview of some essential Angular tools--such as Angular CLI, Angular Augary, and Sublime Text--as well as outlining some must-have TypeScript tips. This book is for all front-end developers who want to become proficient with Angular and its related tools. You'll need to be familiar with HTML and CSS and have a reasonable level of understanding of JavaScript in order to follow the discussion.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781492068419"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1492068411"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 126,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=u3tgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=u3tgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=u3tgDwAAQBAJ&pg=PT39&dq=angular&hl=&cd=17&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=u3tgDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=u3tgDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.35,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 6.36,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=u3tgDwAAQBAJ&rdid=book-u3tgDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9350000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 6360000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=u3tgDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "by Jurgen Van de Moere This chapter on WebStorm and \u003cb\u003eAngular\u003c/b\u003e was sponsored \u003cbr\u003e\nby JetBrains. Thank you for supporting the partners who make SitePoint possible. \u003cbr\u003e\nIn this two-part series on WebStorm and \u003cb\u003eAngular\u003c/b\u003e, Google Developer Experts&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "PrOKEcZXJ58C",
+   "etag": "EbRBVvVJ0/M",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/PrOKEcZXJ58C",
+   "volumeInfo": {
+    "title": "Biomechanics of Sport and Exercise",
+    "authors": [
+     "Peter Merton McGinnis"
+    ],
+    "publisher": "Human Kinetics",
+    "publishedDate": "2005",
+    "description": "Biomechanics of Sport and Exercise, Second Edition, introduces exercise and sport biomechanics in concise terms rather than focusing on complex math and physics. This book helps students learn to appreciate external forces and their effects, how the body generates forces to maintain position, and how forces create movement in physical activities.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0736051015"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780736051019"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 411,
+    "printType": "BOOK",
+    "categories": [
+     "Health & Fitness"
+    ],
+    "averageRating": 3.0,
+    "ratingsCount": 3,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.2.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=PrOKEcZXJ58C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=PrOKEcZXJ58C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=PrOKEcZXJ58C&pg=PA189&dq=angular&hl=&cd=18&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=PrOKEcZXJ58C&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Biomechanics_of_Sport_and_Exercise.html?hl=&id=PrOKEcZXJ58C"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=PrOKEcZXJ58C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "The basics of \u003cb\u003eangular\u003c/b\u003e kinetics, the causes of \u003cb\u003eangular\u003c/b\u003e motion, are explained by \u003cbr\u003e\n\u003cb\u003eangular\u003c/b\u003e interpretations of Newton&#39;s laws of motion. \u003cb\u003eAngular\u003c/b\u003e analogs of inertia and \u003cbr\u003e\nmomentum must be understood to make these interpretations. \u003cb\u003eAngular\u003c/b\u003e inertia&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "0NMjkQnQN6oC",
+   "etag": "ZE8TwELd1Rw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/0NMjkQnQN6oC",
+   "volumeInfo": {
+    "title": "Angular Momentum",
+    "subtitle": "An Illustrated Guide to Rotational Symmetries for Physical Systems",
+    "authors": [
+     "William J. Thompson"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "2008-09-26",
+    "description": "Develops angular momentum theory in a pedagogically consistent way, starting from the geometrical concept of rotational invariance. Uses modern notation and terminology in an algebraic approach to derivations. Each chapter includes examples of applications of angular momentum theory to subjects of current interest and to demonstrate the connections between various scientific fields which are provided through rotations. Includes Mathematica and C language programs.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783527617838"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3527617833"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 475,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.8.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=0NMjkQnQN6oC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=0NMjkQnQN6oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=0NMjkQnQN6oC&pg=PA122&dq=angular&hl=&cd=19&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=0NMjkQnQN6oC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0NMjkQnQN6oC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 97.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 97.99,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=0NMjkQnQN6oC&rdid=book-0NMjkQnQN6oC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9.799E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.799E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Momentum-sample-pdf.acsm?id=0NMjkQnQN6oC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=0NMjkQnQN6oC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Consider now \u003cb\u003eangular\u003c/b\u003e momentum defined as in classical mechanics, LC = rx p, \u003cbr\u003e\nand write for its magnitude LC = [C h , in which EC is a pure number because it \u003cbr\u003e\nhas units of \u003cb\u003eangular\u003c/b\u003e momentum. We call LC dynamical \u003cb\u003eangular\u003c/b\u003e momentum."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "j-Wi3ZAK2nEC",
+   "etag": "VvGr/ikvhXA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/j-Wi3ZAK2nEC",
+   "volumeInfo": {
+    "title": "A Companion to Angular Momentum",
+    "authors": [
+     "Valeria D. Kleiman",
+     "Richard N. Zare",
+     "Hongkun Park",
+     "Robert J. Gordon"
+    ],
+    "publisher": "John Wiley & Sons",
+    "publishedDate": "1998-09-30",
+    "description": "Angular momentum is a basic concept used in classical physics. Examples of phenomena that are related to angular momentum are: 1) Why a moving bicycle does not fall over and 2) why the currents in the ocean of the rotating earth tend to follow circular motions. Designed as a learning tool for those with limited background in quantum mechanics and to compliment Zare's Angular Momentum, this book provides examples, problems, & solutions in angular momentum in quantum mechanics and its applications to chemistry and physics.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "047119249X"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780471192497"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 199,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=j-Wi3ZAK2nEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=j-Wi3ZAK2nEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=j-Wi3ZAK2nEC&printsec=frontcover&dq=angular&hl=&cd=20&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=j-Wi3ZAK2nEC&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/A_Companion_to_Angular_Momentum.html?hl=&id=j-Wi3ZAK2nEC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=j-Wi3ZAK2nEC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Designed as a learning tool for those with limited background in quantum mechanics and to compliment Zare&#39;s Angular Momentum, this book provides examples, problems, &amp; solutions in angular momentum in quantum mechanics and its applications ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BECwDwAAQBAJ",
+   "etag": "MWkWTwcLBwo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BECwDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular Interview Questions and Answers",
+    "subtitle": "Including Angular 6,5,4 and 2",
+    "authors": [
+     "Anil Singh"
+    ],
+    "publisher": "BPB Publications",
+    "publishedDate": "2019-09-18",
+    "description": "Step by step guide to become an expert in Angular DESCRIPTION This book provide all the important aspects required for angular developers looking for brief and useful content for frequently asked Angular Interview questions. You have already worked with other Modern Web Frameworks like AngularJS 1.x, KnockoutJs, Ember, Backbone and now you are keen to become an expert in Angular including version 2, 4, 5 and 6. You have no framework experience at all but you have a profound understanding of Angular and now you are keen to know how to bring your web apps as well as mobile apps to the next level. This book will give you an idea of the Angular framework (including version 2, 4, 5 and 6 and provide you an excellent understanding of the concepts. Changing job is one of the biggest challenges for any IT professional. When IT professional starts searching job, they realise that they need much more than experience. Working on a project is one thing and cracking an interview is another. This book will give you a bird’s eye view of what is needed in an interview. It will help you in doing a quick revision so that you can be ready for the discussion faster. KEY FEATURES Book provide all the important aspects required for angular developers Learn modern Web Frameworks like AngularJS 1.x, KnockoutJs, Ember, Backbone Book will give you an idea of the Angular framework (including version 2, 4, 5 and 6) and provide you an excellent understanding of the concepts. WHAT WILL YOU LEARN The Basic Concepts of Angular, its Components, Directives and Modules Angular Form, Elements, Templates, and Validations Dependency Injection (DI), HttpClient Angular Services, Routing and Navigation Angular Compiler, Pipes, Service Workers Server Side Rendering (Angular Universal) Angular Security, Cookies Basic Understanding of Angular Testing and TypeScript WHO THIS BOOK IS FOR You are new or have some experience in Angular and now want to take the step to become an expert in Angular and want to learn more about how you can apply the new concepts specifically for an Interview or developing robust web apps as well as mobile apps. Table of Contents 1.The Basic Concepts of Angular 2. Angular Components 3. Angular Directives 4. Angular Modules 5. Angular Form, Templates, and Validations 6. Angular Elements 7. Dependency Injection (DI) 8. HttpClient 9.Angular Services 10.Routing and Navigation 11.Angular Compiler 12. Angular Pipes 13. Service Workers 14. Server Side Rendering (Angular Universal) 15.Angular Security 16. Angular Cookies 17. Basic Understanding of Angular Testing 18. Basic Understanding of TypeScript",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789388176699"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9388176693"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 157,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BECwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BECwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=BECwDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=21&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BECwDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BECwDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.39,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 6.39,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BECwDwAAQBAJ&rdid=book-BECwDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9390000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 6390000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Interview_Questions_and_Answers-sample-epub.acsm?id=BECwDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Interview_Questions_and_Answers-sample-pdf.acsm?id=BECwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BECwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Step by step guide to become an expert in Angular DESCRIPTION This book provide all the important aspects required for angular developers looking for brief and useful content for frequently asked Angular Interview questions."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CAFeDwAAQBAJ",
+   "etag": "NGvYoPp5Sfc",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CAFeDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular: Up and Running",
+    "subtitle": "Learning Angular, Step by Step",
+    "authors": [
+     "Shyam Seshadri"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2018-05-31",
+    "description": "This book will demystify Angular as a framework, as well as provide clear instructions and examples on how to get started with writing scalable Angular applications. Angular: Up & Running covers most of the major pieces of Angular, but in a structured manner that is generally used in hands-on training. Each chapter takes one concept, and use examples to cover how it works. Problems to work on (with solutions) at the end of each chapter reinforce the learnings of each chapter and allow readers to really get hands-on with Angular.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781491999844"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1491999845"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 312,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.0.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CAFeDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CAFeDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=CAFeDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=22&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CAFeDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CAFeDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 30.15,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 21.1,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CAFeDwAAQBAJ&rdid=book-CAFeDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.015E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.11E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CAFeDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book will demystify Angular as a framework, as well as provide clear instructions and examples on how to get started with writing scalable Angular applications."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "3lSiev-MnLQC",
+   "etag": "WzMCm3PYCCI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/3lSiev-MnLQC",
+   "volumeInfo": {
+    "title": "Elementary Theory of Angular Momentum",
+    "authors": [
+     "Morris Edgar Rose"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "1995",
+    "description": "High-level treatment offers clear discussion of general theory and applications, including basic principles, coupling coefficients for vector addition, coupling schemes in nuclear reactions, and more. 1957 edition.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486684802"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486684806"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 248,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=3lSiev-MnLQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=3lSiev-MnLQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=3lSiev-MnLQC&pg=PA120&dq=angular&hl=&cd=23&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=3lSiev-MnLQC&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Elementary_Theory_of_Angular_Momentum.html?hl=&id=3lSiev-MnLQC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=3lSiev-MnLQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Some of the diverse fields covered are atomic and molecular spectra, directional \u003cbr\u003e\ncorrelation of nuclear radiations, \u003cb\u003eangular\u003c/b\u003e distributions and polarization in nuclear \u003cbr\u003e\nreactions, and nuclear structure calculations. The common element in all these&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "VJefDwAAQBAJ",
+   "etag": "cYn6kzAppj8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/VJefDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Hands-on Reactive Programming in Angular with NgRx",
+    "authors": [
+     "Charlie Washington"
+    ],
+    "publisher": "https://www.abc2expert.com/#/book",
+    "publishedDate": "2019-06-28",
+    "description": "This book is a quick and useful guide to learning the reactive programming in Angular through step-by-step pictorial tutorials that are easily understood by beginners. It covers four important packages, including @NgRx/Store, @NgRx/Entity, @NgRx/Effects, and RxJS for developing large-scale reactive projects. Features in these four packages are covered thoroughly in this book with hands-on examples that allow readers to become experts in creating scalable and extendable web applications. What This Book Covers？ Chapter 0, Getting Started with Angular NgRx, covers setting up an environment for developing Angular NgRx applications. If you are familiar with the development of the web application with Angular, please skip this chapter. Chapter 1, Reactive Programming in Angular for Beginners, develops a web application for beginners to Angular NgRx. We simplify the example in this chapter to focus on the basic and important concepts about the store and the relationship between a store and components and help beginners to grasp the main ideas in this chapter. Chapter 2, Communication between Two Components, evolves the concepts of the store, which shows how two components talk via a centralized store. Chapter 3, Nested Store Data Structure, manipulates the complicated data structure of states, introduces the concept of payload, and demonstrates how to select data from states with different levels. Chapter 4, Build Hierarchical Module, State, and Reducer, investigates how to build scalable and extendable projects with hierarchical modules, states, and reducers. It shows how @NgRx/Entity automatically generates code with functions of creating, retrieving, updating, and deleting data (CRUD). Chapter 5, Retrieve the Store with Selectors, continues to discuss how to retrieve data based on @NgRx/Entity and how to mimic the functions of SQL SELECT with selectors. Chapter 6, Introduction to RxJS, walks you through creating, filtering, transforming, and manipulating observables which are streams of data. RxJS is an important tool to create reactive applications and help you understand the next chapters. Chapter 7, Injectable Action Listener, Processor, and Dispatcher, explores @NgRx/Effects which listen to actions and perform the function of logging. Chapter 8, Handling HTTP Requests with Effects, demonstrates the interactions among servers, services, effects, stores, and components through a stock view web application.",
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 160,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "2.4.3.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=VJefDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=VJefDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=VJefDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=24&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VJefDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VJefDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 12.27,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 8.34,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=VJefDwAAQBAJ&rdid=book-VJefDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.227E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 8340000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Hands_on_Reactive_Programming_in_Angular-sample-pdf.acsm?id=VJefDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VJefDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book is a quick and useful guide to learning the reactive programming in Angular through step-by-step pictorial tutorials that are easily understood by beginners."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "zVMoDwAAQBAJ",
+   "etag": "aqr5A1hkXc8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/zVMoDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular Services",
+    "authors": [
+     "Sohail Salehi"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2017-02-24",
+    "description": "Design state-of-the-art applications with customized Angular services About This Book Leverage the latest Angular and ES2016 features to create services Integrate third-party libraries effectively and extend your app's functionalities Implement a real-world case study from scratch and level up your Angular skills Who This Book Is For If you are a JavaScript developer who is moving on to Angular and have some experience in developing applications, then this book is for you. You need not have any knowledge of on Angular or its services. What You Will Learn Explore various features and topics involved in modules, services, and dependency injection Sketch and create wire-frames for your project Use controllers to collect data and populate them into NG UIs Create a controller and the required directives to build a tree data structure Implement a logic to decide the relevancy of any given evidence Create a partially-AI service Build controllers to set the template for the report Collect, investigate, perform decision making, and generate reports in one the big automated process In Detail A primary concern with modern day applications is that they need to be dynamic, and for that, data access from the server side, data authentication, and security are very important. Angular leverages its services to create such state-of-the-art dynamic applications. This book will help you create and design customized services, integrate them into your applications, import third-party plugins, and make your apps perform better and faster. This book starts with a basic rundown on how you can create your own Angular development environment compatible with v2 and v4. You will then use Bootstrap and Angular UI components to create pages. You will also understand how to use controllers to collect data and populate them into NG UIs. Later, you will then create a rating service to evaluate entries and assign a score to them. Next, you will create \"cron jobs\" in NG. We will then create a crawler service to find all relevant resources regarding a selected headline and generate reports on it. Finally, you will create a service to manage accuracy and provide feedback about troubled areas in the app created. This book is up to date for the 2.4 release and is compatible with the 4.0 release as well, and it does not have any code based on the beta or release candidates. Style and approach This step-by-step tutorial starts by showing how you can create your first Angular services, then customizing it to suit your needs, and finally implementing some real-world case studies on your own to make you confident designing your own application using effective services from scratch.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781785880483"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1785880489"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 294,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=zVMoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=zVMoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=zVMoDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=25&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=zVMoDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zVMoDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 32.23,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 22.56,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=zVMoDwAAQBAJ&rdid=book-zVMoDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.223E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.256E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=zVMoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Design state-of-the-art applications with customized Angular services About This Book Leverage the latest Angular and ES2016 features to create services Integrate third-party libraries effectively and extend your app&#39;s functionalities ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "EbPvAAAAMAAJ",
+   "etag": "oZI0nE1ds7E",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/EbPvAAAAMAAJ",
+   "volumeInfo": {
+    "title": "Tables of Angular Spheroidal Wave Functions: Prolate, m",
+    "authors": [
+     "Naval Research Laboratory (U.S.)"
+    ],
+    "publishedDate": "1975",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UOM:39015015937132"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 403,
+    "printType": "BOOK",
+    "categories": [
+     "Spheroidal functions"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.full.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=EbPvAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=EbPvAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=EbPvAAAAMAAJ&printsec=frontcover&dq=angular&hl=&cd=26&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=EbPvAAAAMAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=EbPvAAAAMAAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=EbPvAAAAMAAJ&rdid=book-EbPvAAAAMAAJ&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=EbPvAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "BHs2DwAAQBAJ",
+   "etag": "jOcc363jNzY",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/BHs2DwAAQBAJ",
+   "volumeInfo": {
+    "title": "Learning Angular",
+    "subtitle": "A Hands-On Guide to Angular 2 and Angular 4",
+    "authors": [
+     "Brad Dayley",
+     "Brendan Dayley",
+     "Caleb Dayley"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2017-09-19",
+    "description": "Learning Angular, Second Edition A Hands-On Guide to Angular 2 and Angular 4 Learning Angular teaches modern application development with Angular 2 and Angular 4. It begins with the basics of Angular and the technologies and techniques used throughout the book, such as key features of TypeScript, newer ES6 syntax and concepts, and details about the tools needed to write professional Angular applications. The reader will next build an Angular application from scratch while learning about the primary pieces of an Angular application and see how they work together. Using lots of examples, the core parts of Angular will be introduced, such as Components, the Router, and Services. The book also covers techniques like server-side rendering and how to incrementally add Angular 2+ features to existing AngularJS applications. Finally, the reader will gain insight into advanced skills that should be part of any professional Angular developer’s toolkit such as testing, tooling options, and performance tuning. Understand how Angular is organized and learn best practices for designing Angular applications Quickly build Angular templates with built-in directives that enhance the user experience Bind UI elements to your data model, so changes to your model and UI occur automatically in tandem Define custom Angular directives that extend HTML Implement zoomable images, expandable lists, and other rich UI components Implement client-side services that interact with web servers Build dynamic browser views to provide even richer user interaction Create custom services you can easily reuse Implement rich UI components as custom Angular directives Contents at a Glance Introduction What is Angular Why Use Angular Who this Book is For How to Use this Book Getting the Source Code Chapter 1: Jumping into JavaScript Setting Up a JavaScript Development Environment Defining Variables Understanding JavaScript Data Types Using Operators Implementing Looping Creating Functions Understanding Variable Scope Using JavaScript Objects Manipulating Strings Working with Arrays Adding Error Handling Chapter 2: Jumping into TypeScript Learning the Different Types Understanding Interfaces Implementing Classes Implementing Modules Understanding Functions Chapter 3: Getting Started with Angular Why Angular? Understanding Angular Separation of Responsibilities Adding Angular to Your Environment Using the Angular CLI Creating a Basic Angular Application Chapter 4: Angular Components Component Configuration Building the Template Using Constructors Using External Templates Implementing Directives Chapter 5: Expressions Using Expressions Using Pipes Building a Custom Pipe Chapter 6: Data Binding Understanding Data Binding Interpolation Property Binding Attribute Binding Class Binding Style Binding Event Binding Two-Way Binding Chapter 7: Built-in Directives Understanding Directives Using Built-in Directives Structural Directives Attribute Directives Chapter 8: Custom Directives Creating a Custom Attribute Directive Creating a Custom Directive with a Component Chapter 9: Events and Change Detection Using Browser Events Emitting Custom Events Using Observables Chapter 10: Implementing Angular Services in Web Applications Understanding Angular Services Using the Built in Services Sending HTTP GET and PUT Requests with the http Service Implementing a Simple Mock Server Using the http Service Changing Views with the router Service Implementing a Router with a Navigation Bar Implementing a Router with Parameters Chapter 11: Creating Your Own Custom Angular Service Integrating Custom Services into Angular Applications Implementing a Simple Application That Uses a Constant Data Service Implementing a Data Transform Service Implementing a Variable Data Service Implementing a Service that Returns a Promise Implementing a Shared Service Chapter 12: Having Fun with Angular Implementing an Angular Application That Uses the Animation Service Implementing an Angular Application That Zooms in on Images Implementing an Angular Application That Enables Drag and Drop Implementing a Star Rating Angular Component",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780134577029"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0134577027"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 240,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.2.1.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=BHs2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=BHs2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=BHs2DwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=27&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=BHs2DwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BHs2DwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 23.91,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 16.74,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=BHs2DwAAQBAJ&rdid=book-BHs2DwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 2.391E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.674E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Learning_Angular-sample-epub.acsm?id=BHs2DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Learning_Angular-sample-pdf.acsm?id=BHs2DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=BHs2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Understand how Angular is organized and learn best practices for designing Angular applications Quickly build Angular templates with built-in directives that enhance the user experience Bind UI elements to your data model, so changes to ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "I_26BQAAQBAJ",
+   "etag": "rWlvyiWXQGw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/I_26BQAAQBAJ",
+   "volumeInfo": {
+    "title": "Introduction to the Graphical Theory of Angular Momentum",
+    "subtitle": "Case Studies",
+    "authors": [
+     "Ewald Balcar",
+     "Stephen W. Lovesey"
+    ],
+    "publisher": "Springer",
+    "publishedDate": "2009-09-18",
+    "description": "Application of quantum mechanics in physics and chemistry often entails manipulation and evaluation of sums and products of coupling coefficients for the theory of angular momentum. Challenges encountered in such work can be tamed by graphical techniques that provide both the insight and analytical power. The book is the first step-by-step exposition of a graphical method grounded in established work. Copious exercises recover standard results but demonstrate the power to go beyond.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642031182"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "3642031188"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 227,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=I_26BQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=I_26BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=I_26BQAAQBAJ&pg=PA3&dq=angular&hl=&cd=28&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=I_26BQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=I_26BQAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 145.59,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 101.91,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=I_26BQAAQBAJ&rdid=book-I_26BQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.4559E8,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.0191E8,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Introduction_to_the_Graphical_Theory_of-sample-pdf.acsm?id=I_26BQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=I_26BQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Because the two descriptors 3jm and 3nj seem, at first sight, quite similar it is \u003cbr\u003e\nworth noting that 3jm refers to a mathematical quantity defined by three \u003cb\u003eangular\u003c/b\u003e \u003cbr\u003e\nmomenta j and corresponding projections m. With loss of precision, these \u003cbr\u003e\nsymbols&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "-0OWF1Z6vRIC",
+   "etag": "17ihWDYkUy8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/-0OWF1Z6vRIC",
+   "volumeInfo": {
+    "title": "Introduction to Quantum Mechanics",
+    "authors": [
+     "Henrik Smith"
+    ],
+    "publisher": "World Scientific",
+    "publishedDate": "1991",
+    "description": "The book is an introduction to quantum mechanics at a level suitable for the second year in a European university (junior or senior year in an American college). The matrix formulation of quantum mechanics is emphasized throughout, and the student is introduced to Dirac notation from the start. A number of major examples illustrate the workings of quantum mechanics. Several of these examples are taken from solid state physics, with the purpose of showing that quantum mechanics forms the common basis for understanding atoms, molecules and condensed matter. The book contains an introductory chapter which puts the concepts of quantum mechanics into a historical framework. The solid-state applications discussed in this text include the quantum Hall effect, spin waves, quantum wells and energy bands. Other examples feature the two-dimensional harmonic oscillator, coherent states, two-electron atoms, the ammonia molecule and the chemical bond. A large number of homework problems are included.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "9810204752"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9789810204754"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 285,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.2.0.preview.1",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=-0OWF1Z6vRIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=-0OWF1Z6vRIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=-0OWF1Z6vRIC&pg=PA152&dq=angular&hl=&cd=29&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=-0OWF1Z6vRIC&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Quantum_Mechanics.html?hl=&id=-0OWF1Z6vRIC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=-0OWF1Z6vRIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "7 \u003cb\u003eANGULAR\u003c/b\u003e MOMENTUM According to classical mechanics the \u003cb\u003eangular\u003c/b\u003e \u003cbr\u003e\nmomentum of a particle with respect to a given point in space is conserved, when \u003cbr\u003e\nthe potential energy of the particle only depends on the distance from the particle \u003cbr\u003e\nto the&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "da7DAgAAQBAJ",
+   "etag": "Zjgq9ZvxvXU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/da7DAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Notes on the Quantum Theory of Angular Momentum",
+    "authors": [
+     "Eugene Feenberg",
+     "George Edward Pake"
+    ],
+    "publisher": "Courier Corporation",
+    "publishedDate": "2013-01-23",
+    "description": "Informative review considers development of fundamental commutation relations for angular momentum components and vector operators. Additional topics include computation and application of matrix elements of scalar, vector, and tensor operators.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780486173931"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0486173933"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 64,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=da7DAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=da7DAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=da7DAgAAQBAJ&pg=PA11&dq=angular&hl=&cd=30&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=da7DAgAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=da7DAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.38,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 6.38,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=da7DAgAAQBAJ&rdid=book-da7DAgAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9380000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 6380000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Notes_on_the_Quantum_Theory_of_Angular_M-sample-epub.acsm?id=da7DAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Notes_on_the_Quantum_Theory_of_Angular_M-sample-pdf.acsm?id=da7DAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=da7DAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "(5) This is the fundamental commutation rule for \u003cb\u003eangular\u003c/b\u003e momentum. An \u003cbr\u003e\ninteresting feature of the relation is that one cannot begin with it and proceed, \u003cbr\u003e\nthrough some kind of inverse process, to the explicit form for L from which the \u003cbr\u003e\ncalculation&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "QKVfSKhXoWMC",
+   "etag": "VtU41RHztPM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QKVfSKhXoWMC",
+   "volumeInfo": {
+    "title": "Dijet Angular Distributions in Proton-Proton Collisions",
+    "subtitle": "At √s = 7 TeV and √s = 14 TeV",
+    "authors": [
+     "Nele Boelaert"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2011-10-26",
+    "description": "This thesis is based on the first data from the Large Hadron Collider (LHC) at CERN. Its theme can be described as the classical Rutherford scattering experiment adapted to the LHC: measurement of scattering angles to search for new physics and substructure. At the LHC, colliding quarks and gluons exit the proton collisions as collimated particle showers, or jets. The thesis presents studies of the scattering angles of these jets. It includes a phenomenological study at the LHC design energy of 14 TeV, where a model of so-called large extra dimensions is used as a benchmark process for the sensitivity to new physics. The experimental result is the first measurement, made in 2010, by ATLAS, operating at the LHC start-up energy of 7 TeV. The result is compatible with the Standard Model and demonstrates how well the physics and the apparatus are understood. The first data is a tiny fraction of what will be accumulated in the coming years, and this study has set the stage for performing these measurements with confidence as the LHC accumulates luminosity and increases its energy, thereby probing smaller length scales.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "3642245978"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9783642245978"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 170,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.8.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=QKVfSKhXoWMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=QKVfSKhXoWMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=QKVfSKhXoWMC&pg=PR9&dq=angular&hl=&cd=31&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=QKVfSKhXoWMC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QKVfSKhXoWMC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 103.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 72.79,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=QKVfSKhXoWMC&rdid=book-QKVfSKhXoWMC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0399E8,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.279E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Dijet_Angular_Distributions_in_Proton_Pr-sample-epub.acsm?id=QKVfSKhXoWMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Dijet_Angular_Distributions_in_Proton_Pr-sample-pdf.acsm?id=QKVfSKhXoWMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=QKVfSKhXoWMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Abstract. Dijet \u003cb\u003eangular\u003c/b\u003e distributions provide an excellent tool for looking at high \u003cbr\u003e\ntransverse momentum parton interactions in order to study both QCD and new \u003cbr\u003e\nphysics processes. With the Large Hadron Collider (LHC) recently brought into \u003cbr\u003e\nuse,&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vXtgDwAAQBAJ",
+   "etag": "nQ1l5XwlqTQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vXtgDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Learn Angular: 4 Angular Projects",
+    "authors": [
+     "Manjunath M",
+     "Jeremy Wilken",
+     "Simon Holmes",
+     "Ilya Bodrov-Krukowski"
+    ],
+    "publisher": "SitePoint",
+    "publishedDate": "2018-06-15",
+    "description": "Angular is not just a framework, but rather a platform that empowers developers to build applications for the web, mobile, and the desktop. This book presents a collection of complete project tutorials: building a bucket-list MEAN stack app; user authentication with MEAN; building a Twitter client with Node and Angular; and connecting Angular and the WordPress API. Along the way, you'll learn how to use Angular and some of its best features. This book is for all front-end developers who want to get proficient with Angular and its related tools. You'll need to be familiar with HTML and CSS and have a reasonable level of understanding of JavaScript in order to follow the discussion.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781492068273"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1492068276"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.2.2.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=vXtgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=vXtgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=vXtgDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=32&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=vXtgDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vXtgDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 9.35,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 6.36,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=vXtgDwAAQBAJ&rdid=book-vXtgDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 9350000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 6360000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=vXtgDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book presents a collection of complete project tutorials: building a bucket-list MEAN stack app; user authentication with MEAN; building a Twitter client with Node and Angular; and connecting Angular and the WordPress API."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "9leiDwAAQBAJ",
+   "etag": "jnw+YM4ZjnA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/9leiDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular Form Essentials",
+    "subtitle": "Learn the essentials to get started creating forms with Angular!",
+    "authors": [
+     "Cory Rylan"
+    ],
+    "publisher": "Cory Rylan",
+    "publishedDate": "2019-07-14",
+    "description": "Learn the essentials to get started creating complex forms with Angular! Learn to build custom input controls, handle validation and user accessibility. Authored by Google Developer Expert, Cory Rylan. Free lifetime updates of the book and code examples included! The goal of this book is to provide a practical introduction to the Angular Forms API and how they can help build complex forms in web applications. We will cover the various APIs used to create complex user forms. We will also look at how to handle validation logic, async data and custom form inputs. Learn how to use RxJS and Observables to build powerful reactive forms. An entire chapter is dedicated to creating accessible (a11y) forms in Angular as well. This book is continually updated. Currently, the main core concepts of the Angular Form APIs have been covered. Upcoming chapters will dive into more in-depth topics such as reactive programming with RxJS and Reactive Forms as well as building dynamic forms from data models.",
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 110,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "4.7.7.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=9leiDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=9leiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=9leiDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=33&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=9leiDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9leiDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 14.15,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 9.62,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=9leiDwAAQBAJ&rdid=book-9leiDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.415E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 9620000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Form_Essentials-sample-epub.acsm?id=9leiDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Form_Essentials-sample-pdf.acsm?id=9leiDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=9leiDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Free lifetime updates of the book and code examples included! The goal of this book is to provide a practical introduction to the Angular Forms API and how they can help build complex forms in web applications."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "gS7we7IjvKQC",
+   "etag": "IEE/WZDVXA8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/gS7we7IjvKQC",
+   "volumeInfo": {
+    "title": "The Theory of Complex Angular Momenta",
+    "subtitle": "Gribov Lectures on Theoretical Physics",
+    "authors": [
+     "V. N. Gribov"
+    ],
+    "publisher": "Cambridge University Press",
+    "publishedDate": "2003-12-04",
+    "description": "This 2003 book provides a rigorous introduction to the theory of complex angular momenta, based on the methods of field theory. It comprises an English translation of the series of lectures given by V. N. Gribov in 1969, when the physics of high-energy hadron interactions was being created. Besides their historical significance, these lectures contain material which is highly relevant to research today. The basic physical results and the approaches Gribov developed are now being rediscovered in an alternative context: in the microscopic theory of hadrons provided by quantum chromodynamics. The ideas and calculation techniques presented in this book are useful for analysing high-energy hadron scattering phenomena, deep inelastic lepton-hadron scattering, the physics of heavy ion collisions, kinetic phenomena in phase transitions, and will be instrumental in the analysis of electroweak processes at the next-generation particle accelerators, such as LHC and TESLA.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "1139441892"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9781139441896"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=gS7we7IjvKQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=gS7we7IjvKQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=gS7we7IjvKQC&printsec=frontcover&dq=angular&hl=&cd=34&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=gS7we7IjvKQC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gS7we7IjvKQC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 45.76,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 32.03,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=gS7we7IjvKQC&rdid=book-gS7we7IjvKQC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 4.576E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.203E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/The_Theory_of_Complex_Angular_Momenta-sample-pdf.acsm?id=gS7we7IjvKQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=gS7we7IjvKQC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This 2003 book provides a rigorous introduction to the theory of complex angular momenta, based on the methods of field theory."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "LWJVpPoJ_qkC",
+   "etag": "PFdhJGsBnwU",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/LWJVpPoJ_qkC",
+   "volumeInfo": {
+    "title": "Angular Trifecta",
+    "authors": [
+     "Edmund Alexander Sims"
+    ],
+    "publisher": "Dope Enterprises",
+    "publishedDate": "2016-08-28",
+    "description": "When the Space Force went to war with the Slorgs, it caused more than military fatalities. The faction of the Humans suffered a divisional rift along ideological lines which caused a group of separatists to realize their pacifist vision by seceding away from the megapower in order to form Galaxy Bloc. Located deep within the Quadron System, their upstart vulnerability is seen by the enemies of Humanity as an exploitable weakness. So sets the stage for the events on the planet Dio Qze and enters its respective trinity of players: Enderbrook Boyd - an Enforcer that uses black ops to try and lure the assemblage of unincorporated planets back into the Space Force fold. Janette Ueberrhein - a botanist whose purpose is to avert a mortgage crisis that has little to do with the economic arbitrage opportunities of the greedy and everything to do with the bioterrorist acts of the shady. Burdlit Giz - the operational general, a reptilian (in appearance) Carriveaua who offers kind and timely assistance to the fledgling faction. But why do these three really do what they do? Because everybody has an angle to play. This is the answer to the question but not necessarily the question which should be asked - that being the angle. Because the stakes are so high. A no-brainer of sorts - time would be much better spent in attempting to prevent the lengths at which an adversary would go to achieve them. Because two (perceived) wrongs do not make a right. But, three do make it interesting. Just because. Angular Trifecta - three people, three agendas, three objectives - one stage, one opportunity, one chance.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9780982811184"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "0982811187"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "printType": "BOOK",
+    "categories": [
+     "Fiction"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=LWJVpPoJ_qkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=LWJVpPoJ_qkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=LWJVpPoJ_qkC&pg=PT18&dq=angular&hl=&cd=35&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=LWJVpPoJ_qkC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LWJVpPoJ_qkC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 3.79,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 2.84,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=LWJVpPoJ_qkC&rdid=book-LWJVpPoJ_qkC&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3790000.0,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2840000.0,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Trifecta-sample-epub.acsm?id=LWJVpPoJ_qkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Trifecta-sample-pdf.acsm?id=LWJVpPoJ_qkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=LWJVpPoJ_qkC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "_24yBwAAQBAJ",
+   "etag": "zt+Vj8fJwRQ",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/_24yBwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular Momentum in Geophysical Turbulence",
+    "subtitle": "Continuum Spatial Averaging Method",
+    "authors": [
+     "Victor N. Nikolaevskiy"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-04-18",
+    "description": "Turbulence theory is one of the most intriguing parts of fluid mechanics and many outstanding scientists have tried to apply their knowledge to the development of the theory and to offer useful recommendations for solution of some practical problems. In this monograph the author attempts to integrate many specific approaches into the unified theory. The basic premise is the simple idea that a small eddy, that is an element of turbulent meso-structure, possesses its own dynamics as an object rotating with its own spin velocity and obeying the Newton dynamics of a finite body. A number of such eddies fills a coordinate cell, and the angular momentum balance has to be formulated for this spatial cell. If the cell coincides with a finite difference element at a numerical calculation and if the external length scale is large, this elementary volume can be considered as a differential one and a continuum parameterization has to be used. Nontrivial angular balance is a consequence of the asymmetrical Reynolds stress action at the oriented sides of an elementary volume. At first glance, the averaged dyad of velocity components is symmetrical, == However, if averaging is performed over the plane with normal nj, the principle of commutation is lost. As a result, the stress tensor asymmetry j is determined by other factors that participate in the angular momentum balance. This is the only possibility to determine a stress in engineering.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9789401701990"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "9401701997"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 245,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=_24yBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=_24yBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=_24yBwAAQBAJ&pg=PA224&dq=angular&hl=&cd=36&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=_24yBwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_24yBwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 135.19,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 94.63,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=_24yBwAAQBAJ&rdid=book-_24yBwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.3519E8,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 9.463E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Momentum_in_Geophysical_Turbulen-sample-epub.acsm?id=_24yBwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_Momentum_in_Geophysical_Turbulen-sample-pdf.acsm?id=_24yBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=_24yBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "[47] Chimonas G., Hauser H.M. The transfer of \u003cb\u003eangular\u003c/b\u003e momentum from vortices \u003cbr\u003e\nto gravity swirl waves. J. Atmos. Sci., v. 54, 1701 - 1711 (1997). [48] Comte-Bellot \u003cbr\u003e\nG. Ecoulement Turbulent Entre Deux Parois Paralleles. Edite Scient. Techn."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "O5orAAAAYAAJ",
+   "etag": "JMQBp2ployo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/O5orAAAAYAAJ",
+   "volumeInfo": {
+    "title": "Motion Devices for Linear and Angular Oscillation and for Abrupt Acceleration Studies on Human Subjects (impact)",
+    "subtitle": "A Description of Facilities in Use and Proposed",
+    "authors": [
+     "Henning E. von Gierke",
+     "Eugene Steinmetz"
+    ],
+    "publisher": "National Academies",
+    "publishedDate": "1961",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "NAP:15619"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": false
+    },
+    "pageCount": 132,
+    "printType": "BOOK",
+    "categories": [
+     "Acceleration (Physiology)"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.0.2.0.preview.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=O5orAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=O5orAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=O5orAAAAYAAJ&pg=PA32&dq=angular&hl=&cd=37&source=gbs_api",
+    "infoLink": "http://books.google.it/books?id=O5orAAAAYAAJ&dq=angular&hl=&source=gbs_api",
+    "canonicalVolumeLink": "https://books.google.com/books/about/Motion_Devices_for_Linear_and_Angular_Os.html?hl=&id=O5orAAAAYAAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "ALL_PAGES",
+    "embeddable": false,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=O5orAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "2 \u003cb\u003eangular\u003c/b\u003e acceleration through a displacement of ± 30 degrees about the roll axis\u003cbr\u003e\n. About the pitch axis, the device is capable of ± 15 degrees displacement, an \u003cbr\u003e\n\u003cb\u003eangular\u003c/b\u003e velocity of 0. 82 rad/sec. , and an \u003cb\u003eangular\u003c/b\u003e acceleration of 2. 6 rad/sec."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "o3aMUOxJrk0C",
+   "etag": "8jz5vVoT6Yg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/o3aMUOxJrk0C",
+   "volumeInfo": {
+    "title": "Measuring the Angular Momentum of Supermassive Black Holes",
+    "authors": [
+     "Laura Brenneman"
+    ],
+    "publisher": "Springer Science & Business Media",
+    "publishedDate": "2013-06-26",
+    "description": "Measuring the spin distribution of supermassive black holes is of critical importance for understanding how these black holes and their host galaxies form and evolve over time, yet this type of study is only in its infancy. This brief describes how astronomers measure spin in supermassive black holes using X-ray spectroscopy. It also reviews the constraints that have been placed on the spin distribution in local, bright active galaxies over the past six years, and the cosmological implications of these constraints. Finally, it summarizes the open questions that remain in this exciting new field of research and points toward future discoveries soon to be made by the next generation of space-based observatories.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781461477716"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1461477719"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Science"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.8.8.0.preview.3",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=o3aMUOxJrk0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=o3aMUOxJrk0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=o3aMUOxJrk0C&pg=PA10&dq=angular&hl=&cd=38&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=o3aMUOxJrk0C&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o3aMUOxJrk0C"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 51.99,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 36.39,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=o3aMUOxJrk0C&rdid=book-o3aMUOxJrk0C&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.199E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.639E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Measuring_the_Angular_Momentum_of_Superm-sample-epub.acsm?id=o3aMUOxJrk0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Measuring_the_Angular_Momentum_of_Superm-sample-pdf.acsm?id=o3aMUOxJrk0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=o3aMUOxJrk0C&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Applying. the. Reflection. Model. Though the reflection modeling method could, in \u003cbr\u003e\nprinciple, be used to measure the \u003cb\u003eangular\u003c/b\u003e momentum of an actively accreting \u003cbr\u003e\nblack hole of any mass, we restrict our focus here to determining spin in SMBHs."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "CTbDDwAAQBAJ",
+   "etag": "O6SxPrcaCJg",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/CTbDDwAAQBAJ",
+   "volumeInfo": {
+    "title": "Angular for Material Design",
+    "subtitle": "Leverage Angular Material and TypeScript to Build a Rich User Interface for Web Apps",
+    "authors": [
+     "Venkata Keerti Kotaru"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2019-12-09",
+    "description": "Build Angular applications faster and better with TypeScript and Material Design. You will learn how to build a web interface and use Google's open source Angular Material library of ready-made and easy-to-use components. This book uses Angular with TypeScript (a superset to JavaScript) to enable use of data types and take advantage of programming constructs such as classes, interfaces, generic templates, and more. You also will utilize various Angular features, including data binding, components, services, etc. You will build a single page application with the help of routing capabilities available out of the box (Angular CLI) and interface with remote services over HTTP. What You Will Learn Build an application using Angular, TypeScript, and Angular Material Understand Angular concepts such as components, directives, services, and more Use TypeScript features, including data types, classes, interfaces, generic templates, etc. Build a single page application (SPA) with routing features and integrate it with server-side remote services Who This Book Is For Beginning to intermediate level professionals will learn about web development using Angular, TypeScript, and Angular Material. Patterns and practices are recommended to be a successful developer. Basic knowledge of JavaScript is helpful.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781484254349"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1484254341"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 364,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+     "containsEpubBubbles": false,
+     "containsImageBubbles": false
+    },
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=CTbDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=CTbDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=CTbDDwAAQBAJ&printsec=frontcover&dq=angular&hl=&cd=39&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=CTbDDwAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CTbDDwAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 35.95,
+     "currencyCode": "EUR"
+    },
+    "retailPrice": {
+     "amount": 25.16,
+     "currencyCode": "EUR"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=CTbDDwAAQBAJ&rdid=book-CTbDDwAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.595E7,
+       "currencyCode": "EUR"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.516E7,
+       "currencyCode": "EUR"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_for_Material_Design-sample-epub.acsm?id=CTbDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.it/books/download/Angular_for_Material_Design-sample-pdf.acsm?id=CTbDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=CTbDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book uses Angular with TypeScript (a superset to JavaScript) to enable use of data types and take advantage of programming constructs such as classes, interfaces, generic templates, and more."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "Sv9RtvFBXiwC",
+   "etag": "6wKf9G1+iHI",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/Sv9RtvFBXiwC",
+   "volumeInfo": {
+    "title": "Angular sensitivity of controlled implanted doping profiles",
+    "authors": [
+     "Robert G. Wilson"
+    ],
+    "publishedDate": "1978",
+    "industryIdentifiers": [
+     {
+      "type": "OTHER",
+      "identifier": "UIUC:30112104076622"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 54,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.1.0.0.full.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.com/books/content?id=Sv9RtvFBXiwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.com/books/content?id=Sv9RtvFBXiwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.it/books?id=Sv9RtvFBXiwC&pg=PA1&dq=angular&hl=&cd=40&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=Sv9RtvFBXiwC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Sv9RtvFBXiwC"
+   },
+   "saleInfo": {
+    "country": "IT",
+    "saleability": "FREE",
+    "isEbook": true,
+    "buyLink": "https://play.google.com/store/books/details?id=Sv9RtvFBXiwC&rdid=book-Sv9RtvFBXiwC&rdot=1&source=gbs_api"
+   },
+   "accessInfo": {
+    "country": "IT",
+    "viewability": "ALL_PAGES",
+    "embeddable": true,
+    "publicDomain": true,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "downloadLink": "http://books.google.it/books/download/Angular_sensitivity_of_controlled_implan.pdf?id=Sv9RtvFBXiwC&hl=&output=pdf&sig=ACfU3U35LGIb9QDtxJGJgTSXmf6aB8ZLsA&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=Sv9RtvFBXiwC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "\u003cb\u003eAngular\u003c/b\u003e Sensitivity of Controlled Implanted Doping Profiles by Robert G. Wilson, \u003cbr\u003e\nHoward L. Dunlap, Douglas M. Jamba, and David R. Myers Abstract : Ion \u003cbr\u003e\nimplantation can be used to produce accurately controlled doping profiles for \u003cbr\u003e\nsilicon&nbsp;..."
+   }
+  }
+ ]
+}

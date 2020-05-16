@@ -1998,6 +1998,7 @@
               "projects/L07-angular-httpservice-E60-rest-crud-example/src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "projects/L07-angular-httpservice-E60-rest-crud-example/src/styles.css"
             ],
             "scripts": []
@@ -2062,6 +2063,7 @@
               "projects/L07-angular-httpservice-E60-rest-crud-example/src/assets"
             ],
             "styles": [
+              "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
               "projects/L07-angular-httpservice-E60-rest-crud-example/src/styles.css"
             ],
             "scripts": []
