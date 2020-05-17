@@ -2,24 +2,6 @@
   "books": [
     {
       "authors": [
-        "L. Allen",
-        "Stephen M. Barnett",
-        "Miles J. Padgett"
-      ],
-      "publishedDate": "2016-04-19",
-      "title": "Optical Angular Momentum",
-      "id": "kZjSBQAAQBAJ"
-    },
-    {
-      "authors": [
-        "Davide Copelli"
-      ],
-      "publishedDate": "2017-07-06",
-      "title": "Angular 100% Operativo",
-      "id": "Vto4DwAAQBAJ"
-    },
-    {
-      "authors": [
         "A. R. Edmonds"
       ],
       "publishedDate": "2016-08-10",
@@ -44,31 +26,6 @@
       "publishedDate": "2012-12-06",
       "title": "Angular Momentum and Mass Loss for Hot Stars",
       "id": "VjbqCAAAQBAJ"
-    },
-    {
-      "authors": [
-        "Dhananjay Kumar"
-      ],
-      "publishedDate": "2019-09-19",
-      "title": "EssentialsAngular",
-      "id": "OWOwDwAAQBAJ"
-    },
-    {
-      "authors": [
-        "David L. Andrews",
-        "Mohamed Babiker"
-      ],
-      "publishedDate": "2013",
-      "title": "The Angular Momentum of Light",
-      "id": "li2bysEqHf0C"
-    },
-    {
-      "authors": [
-        "V. Devanathan"
-      ],
-      "publishedDate": "2006-04-11",
-      "title": "Angular Momentum Techniques in Quantum Mechanics",
-      "id": "KYThBwAAQBAJ"
     },
     {
       "authors": [

@@ -18,3 +18,7 @@
   max-height: 500px;
 }
 
+.mat-column-actions {
+  max-width: 150px !important;;
+}
+

@@ -10,34 +10,50 @@
 </p>
 <div class="example-container mat-elevation-z8">
 
-  <mat-table [dataSource]="dataSource$ | async" matSort>
+  <mat-table [dataSource]="dataSource" matSort>
 
-    <!-- ID Column -->
+    <!-- Columns -->
     <ng-container matColumnDef="id">
       <mat-header-cell *matHeaderCellDef mat-sort-header> ID </mat-header-cell>
       <mat-cell *matCellDef="let row"> {{row.id}} </mat-cell>
     </ng-container>
 
-    <!-- Progress Column -->
-    <ng-container matColumnDef="progress">
+    <ng-container matColumnDef="title">
       <mat-header-cell *matHeaderCellDef mat-sort-header> Title </mat-header-cell>
       <mat-cell *matCellDef="let row"> {{row.title}} </mat-cell>
     </ng-container>
 
-    <!-- Name Column -->
-    <ng-container matColumnDef="name">
+    <ng-container matColumnDef="author">
       <mat-header-cell *matHeaderCellDef mat-sort-header> Author </mat-header-cell>
       <mat-cell *matCellDef="let row"> {{row.authors[0]}} </mat-cell>
     </ng-container>
 
-    <!-- Color Column -->
-    <ng-container matColumnDef="color">
+    <ng-container matColumnDef="year">
       <mat-header-cell *matHeaderCellDef mat-sort-header> Year </mat-header-cell>
       <mat-cell *matCellDef="let row" [style.color]="row"> {{row.publishedDate.slice(0,4)}} </mat-cell>
     </ng-container>
 
+     <!-- actions -->
+     <ng-container matColumnDef="actions">
+      <mat-header-cell *matHeaderCellDef>
+        <button mat-icon-button color="primary">
+          <mat-icon aria-label="Add">add</mat-icon>
+        </button>
+      </mat-header-cell>
+
+      <mat-cell *matCellDef="let row; let i=index;">
+        <button mat-icon-button color="accent">
+          <mat-icon aria-label="Edit">edit</mat-icon>
+        </button>
+
+        <button mat-icon-button color="accent" (click)="deleteBook(i, row)">
+          <mat-icon aria-label="Delete">delete</mat-icon>
+        </button>
+      </mat-cell>
+    </ng-container>
+
     <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
-    <mat-row *matRowDef="let row; columns: displayedColumns;" (click)="retrieveBook(row.id)">
+    <mat-row *matRowDef="let row; columns: displayedColumns;">
     </mat-row>
   </mat-table>
 
