@@ -5,9 +5,6 @@
     <input matInput #searchInput placeholder="Type your search">
   </mat-form-field>
 </div>
-<p>
-  Selected book: {{ selectedBook$ | async | json }}
-</p>
 <div class="example-container mat-elevation-z8">
 
   <mat-table [dataSource]="dataSource" matSort>
