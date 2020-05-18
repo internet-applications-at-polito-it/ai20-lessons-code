@@ -2095,6 +2095,123 @@
           }
         }
       }
+    },
+    "L11-angular-routing-E50-nested-routes": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "projects/L11-angular-routing-E50-nested-routes",
+      "sourceRoot": "projects/L11-angular-routing-E50-nested-routes/src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:browser",
+          "options": {
+            "outputPath": "dist/L11-angular-routing-E50-nested-routes",
+            "index": "projects/L11-angular-routing-E50-nested-routes/src/index.html",
+            "main": "projects/L11-angular-routing-E50-nested-routes/src/main.ts",
+            "polyfills": "projects/L11-angular-routing-E50-nested-routes/src/polyfills.ts",
+            "tsConfig": "projects/L11-angular-routing-E50-nested-routes/tsconfig.app.json",
+            "aot": true,
+            "assets": [
+              "projects/L11-angular-routing-E50-nested-routes/src/favicon.ico",
+              "projects/L11-angular-routing-E50-nested-routes/src/assets"
+            ],
+            "styles": [
+              "projects/L11-angular-routing-E50-nested-routes/src/styles.css"
+            ],
+            "scripts": []
+          },
+          "configurations": {
+            "production": {
+              "fileReplacements": [
+                {
+                  "replace": "projects/L11-angular-routing-E50-nested-routes/src/environments/environment.ts",
+                  "with": "projects/L11-angular-routing-E50-nested-routes/src/environments/environment.prod.ts"
+                }
+              ],
+              "optimization": true,
+              "outputHashing": "all",
+              "sourceMap": false,
+              "extractCss": true,
+              "namedChunks": false,
+              "extractLicenses": true,
+              "vendorChunk": false,
+              "buildOptimizer": true,
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "5mb"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "6kb",
+                  "maximumError": "10kb"
+                }
+              ]
+            }
+          }
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "options": {
+            "browserTarget": "L11-angular-routing-E50-nested-routes:build"
+          },
+          "configurations": {
+            "production": {
+              "browserTarget": "L11-angular-routing-E50-nested-routes:build:production"
+            }
+          }
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n",
+          "options": {
+            "browserTarget": "L11-angular-routing-E50-nested-routes:build"
+          }
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "main": "projects/L11-angular-routing-E50-nested-routes/src/test.ts",
+            "polyfills": "projects/L11-angular-routing-E50-nested-routes/src/polyfills.ts",
+            "tsConfig": "projects/L11-angular-routing-E50-nested-routes/tsconfig.spec.json",
+            "karmaConfig": "projects/L11-angular-routing-E50-nested-routes/karma.conf.js",
+            "assets": [
+              "projects/L11-angular-routing-E50-nested-routes/src/favicon.ico",
+              "projects/L11-angular-routing-E50-nested-routes/src/assets"
+            ],
+            "styles": [
+              "projects/L11-angular-routing-E50-nested-routes/src/styles.css"
+            ],
+            "scripts": []
+          }
+        },
+        "lint": {
+          "builder": "@angular-devkit/build-angular:tslint",
+          "options": {
+            "tsConfig": [
+              "projects/L11-angular-routing-E50-nested-routes/tsconfig.app.json",
+              "projects/L11-angular-routing-E50-nested-routes/tsconfig.spec.json",
+              "projects/L11-angular-routing-E50-nested-routes/e2e/tsconfig.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
+          }
+        },
+        "e2e": {
+          "builder": "@angular-devkit/build-angular:protractor",
+          "options": {
+            "protractorConfig": "projects/L11-angular-routing-E50-nested-routes/e2e/protractor.conf.js",
+            "devServerTarget": "L11-angular-routing-E50-nested-routes:serve"
+          },
+          "configurations": {
+            "production": {
+              "devServerTarget": "L11-angular-routing-E50-nested-routes:serve:production"
+            }
+          }
+        }
+      }
     }
   }
 }

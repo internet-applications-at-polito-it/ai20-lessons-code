@@ -1,0 +1,11 @@
+<div *ngIf="hero">
+  <h4>{{ hero.name | uppercase }} Details</h4>
+  <div><span>id: </span>{{hero.id}}</div>
+  <div>
+    <label>name:
+      <input [(ngModel)]="hero.name" placeholder="name"/>
+    </label>
+  </div>
+  <button (click)="goBack()">go back</button>
+  &nbsp;<a routerLink="/heroes/{{hero.id+10}}">next {{hero.id+10}}</a>
+</div>
