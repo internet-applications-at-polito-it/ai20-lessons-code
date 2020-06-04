@@ -1,13 +1,9 @@
 import { TestBed, async } from '@angular/core/testing';
-import { RouterTestingModule } from '@angular/router/testing';
 import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
     TestBed.configureTestingModule({
-      imports: [
-        RouterTestingModule
-      ],
       declarations: [
         AppComponent
       ],
@@ -20,16 +16,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have as title 'L12-angular-architecture-E30-observable-data-service'`, () => {
+  it(`should have as title 'L07-angular-httpservice-E45-rest-example-autocomplete'`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('L12-angular-architecture-E30-observable-data-service');
+    expect(app.title).toEqual('L07-angular-httpservice-E45-rest-example-autocomplete');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement;
-    expect(compiled.querySelector('.content span').textContent).toContain('L12-angular-architecture-E30-observable-data-service app is running!');
+    expect(compiled.querySelector('.content span').textContent).toContain('L07-angular-httpservice-E45-rest-example-autocomplete app is running!');
   });
 });
